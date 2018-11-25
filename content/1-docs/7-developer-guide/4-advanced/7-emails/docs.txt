@@ -21,7 +21,7 @@ $email = email(array(
 if($email->send()) {
   echo 'The email has been sent';
 } else {
-  echo $email->error()->message();
+  echo $email->error()->getMessage();
 }
 
 ```
@@ -48,7 +48,7 @@ $email = email(array(
 if($email->send()) {
   echo 'The email has been sent via Amazon SES';
 } else {
-  echo $email->error()->message();
+  echo $email->error()->getMessage();
 }
 
 ```
@@ -73,7 +73,7 @@ $email = email(array(
 if($email->send()) {
   echo 'The email has been sent via Postmark';
 } else {
-  echo $email->error()->message();
+  echo $email->error()->getMessage();
 }
 
 ```
@@ -98,7 +98,7 @@ $email = email(array(
 if($email->send()) {
   echo 'The email has been sent via Mailgun';
 } else {
-  echo $email->error()->message();
+  echo $email->error()->getMessage();
 }
 
 ```
