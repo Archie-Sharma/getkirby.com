@@ -51,9 +51,9 @@ Capistrano plays nice with Kirby. No more worrying about squashing a `content` f
 
 This tutorial assumes you have experience with the command line on a UNIX-based operating system (including via SSH) as well as version control software like git. Capistrano is written in Ruby, so you should be comfortable edting basic Ruby code.
 
-The most common problems when dealing with deployment tends to be file and folder permissions
-
 This demo will reference code from [this repository](https://github.com/AugustMiller/plainkit). Feel free to poke around before getting started— everything you need to know about it will be addressed, below. _Do note, however, that unlike the repo above, this guide assumes Kirby and the Panel live at the top-level of your project. For security purposes, you should consider keeping configuration and source files out of your webroot, but that strategy is not within the scope of this guide._
+
+> The most common problems when dealing with automated deployment tends to be file and folder permissions. A familiariry with Unix users, groups and the `chmod` and `chown` commands is handy, but not required for all environments.
 
 ### For Your Technology
 
