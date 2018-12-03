@@ -1,9 +1,0 @@
-Date: 2014-11-13 11:48:11
-
-----
-
-User: texnixe
-
-----
-
-Text: You second piece of code should be correct, the first isn't. In most cases it shouldn't be necessary to set this option, though.

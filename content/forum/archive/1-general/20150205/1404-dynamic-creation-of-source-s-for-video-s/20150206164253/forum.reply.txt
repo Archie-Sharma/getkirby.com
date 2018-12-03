@@ -1,9 +1,0 @@
-Date: 2015-02-06 16:42:53
-
-----
-
-User: andirueckel
-
-----
-
-Text: Thanks very much! In line 5, the “$” before “video” is missing—after adding it, it works like a charm. : )

@@ -1,9 +1,0 @@
-Date: 2014-10-22 03:41:21
-
-----
-
-User: sasharae
-
-----
-
-Text: Nevermind! I found out it had nothing to do with any of that — and that it was simply a matter of changing my text docs from .txt to .md because I had my content style extension in my config.php set to .md... it was as simple as that. I’m quite happy and relieved that it wasn’t anything more complicated than that. Phew.

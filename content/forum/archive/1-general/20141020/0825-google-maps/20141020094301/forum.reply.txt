@@ -1,9 +1,0 @@
-Date: 2014-10-20 09:43:01
-
-----
-
-User: texnixe
-
-----
-
-Text: In K1 there is `$pages->shuffle()`for shuffling content. Can't help as regards the maps plugin thought 'cause I've never used it.

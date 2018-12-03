@@ -1,6 +1,0 @@
-Title: Web.AppStorm
-
-----
-
-Link: http://web.appstorm.net/reviews/web-dev/kirby-the-flat-file-cms-thatll-make-you-rethink-content-management/
-

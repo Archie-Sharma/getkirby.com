@@ -1,9 +1,0 @@
-Date: 2015-02-15 13:45:07
-
-----
-
-User: texnixe
-
-----
-
-Text: If you add the asterisks to your text file, the output should be  a hr-tag, at least that's what happens in my installations. What code are you using to render the html?

@@ -1,9 +1,0 @@
-Date: 2014-11-10 15:44:04
-
-----
-
-User: seleckis
-
-----
-
-Text: This solution would not help, because in that thread you advice to redirect all URLs under "/de/" to the same URL, but without "de". In my case, I need to redirect from old slug to another, keeping language URL segment.

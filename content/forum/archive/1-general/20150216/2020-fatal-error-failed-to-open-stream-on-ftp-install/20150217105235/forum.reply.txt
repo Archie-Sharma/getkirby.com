@@ -1,9 +1,0 @@
-Date: 2015-02-17 10:52:35
-
-----
-
-User: texnixe
-
-----
-
-Text: I had the same problem recently because the server was running the wrong version of php ... Kirby requirement is php 5.3+

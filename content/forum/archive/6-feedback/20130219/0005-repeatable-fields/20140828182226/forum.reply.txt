@@ -1,9 +1,0 @@
-User: fitzage
-
-----
-
-Date: 2014-08-28 18:22:26
-
-----
-
-Text: It all depends on your clients. It would be nice to have better support in the panel for this, though.

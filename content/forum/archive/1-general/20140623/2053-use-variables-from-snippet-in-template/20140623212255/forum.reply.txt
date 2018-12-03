@@ -1,9 +1,0 @@
-User: travVT
-
-----
-
-Date: 2014-06-23 21:22:55
-
-----
-
-Text: Hello Crisp_Concepts. You can get this to work by defining the variable as global in the snippet. For instance $GLOBALS['test123'] = 'TEST'. And then referencing it as a global  variable in the template like this $GLOBALS['test123']. I hope this helps!

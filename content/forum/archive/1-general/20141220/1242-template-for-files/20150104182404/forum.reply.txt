@@ -1,9 +1,0 @@
-Date: 2015-01-04 18:24:04
-
-----
-
-User: fanningert
-
-----
-
-Text: @_danielschmid Hi, can you post or send me your current status of your development. I search for a solution to display a image detail page. Without create a own page for every image. Or have you a snippet for me?

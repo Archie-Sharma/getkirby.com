@@ -1,9 +1,0 @@
-User: plantalabs
-
-----
-
-Date: 2014-09-25 19:59:25
-
-----
-
-Text: hi, do you know whic script is better, simplecartjs o minicartjs?

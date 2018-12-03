@@ -1,9 +1,0 @@
-Date: 2014-10-29 19:16:22
-
-----
-
-User: bastianallgeier
-
-----
-
-Text: What you are looking for is this <http://getkirby.com/docs/cheatsheet/page/update> :)

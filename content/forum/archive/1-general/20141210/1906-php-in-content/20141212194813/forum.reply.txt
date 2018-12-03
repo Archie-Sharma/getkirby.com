@@ -1,9 +1,0 @@
-Date: 2014-12-12 19:48:13
-
-----
-
-User: fitzage
-
-----
-
-Text: You could create a kirbytext module that does it. I had one for displaying snippets before, but that's actually built in to k2 I think.

@@ -1,9 +1,0 @@
-Date: 2014-11-05 04:20:46
-
-----
-
-User: chris_krammer
-
-----
-
-Text: Sorry, it worked now. I didn't specify "article" in "filterBy", but something else.

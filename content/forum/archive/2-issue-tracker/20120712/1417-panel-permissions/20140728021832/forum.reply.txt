@@ -1,9 +1,0 @@
-User: desgnl
-
-----
-
-Date: 2014-07-28 02:18:32
-
-----
-
-Text: @travismaynard how do you set your files with the same owner that is running your Apache process? thanks

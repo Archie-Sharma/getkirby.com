@@ -1,9 +1,0 @@
-Date: 2014-10-14 19:34:29
-
-----
-
-User: iamgp
-
-----
-
-Text: In your template, are you  parsing it through html()?

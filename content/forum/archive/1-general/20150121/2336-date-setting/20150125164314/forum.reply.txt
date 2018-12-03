@@ -1,9 +1,0 @@
-Date: 2015-01-25 16:43:14
-
-----
-
-User: texnixe
-
-----
-
-Text: If you don't work with the panel/blueprints, use German "dot-notation" and kirby will parse it correctly automatically, e.g. 18.03.2015.

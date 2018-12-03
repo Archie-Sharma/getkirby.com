@@ -1,9 +1,0 @@
-Date: 2015-01-23 16:06:16
-
-----
-
-User: pixelstark
-
-----
-
-Text: After having the same problem I have replaced the user in site/accounts with a new user and the site data . It's works for me.

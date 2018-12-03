@@ -3,13 +3,7 @@
   <ul class="menu-left">
     <?php foreach($pages->visible() as $item): ?><!--
  --><li<?php e($item->isOpen(), ' class="is-active"') ?>><a href="<?php echo $item->url() ?>"><?php echo html($item->title()) ?></a></li><!--
- --><?php endforeach ?><!--    
- --><li class="quicksearch">
-      <form action="<?= url('search') ?>">
-        <label for="quicksearch">Search</label>        
-        <input type="search" id="quicksearch" name="q">
-      </form>
-    </li>
+ --><?php endforeach ?>
   </ul><!--
 --><ul class="menu-right">
     <li class="<?php e($page->uid() == 'try', ' is-active') ?>"><a title="Download and test Kirby on your local machine as long as you want." href="<?php echo url('try') ?>">Try</a></li><!--

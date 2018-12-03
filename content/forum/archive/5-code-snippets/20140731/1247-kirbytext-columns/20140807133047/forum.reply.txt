@@ -1,9 +1,0 @@
-User: MinmlCo
-
-----
-
-Date: 2014-08-07 13:30:47
-
-----
-
-Text: This is awesome, Could essentially create an entire page without digging through code.

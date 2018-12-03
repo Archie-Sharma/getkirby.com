@@ -1,9 +1,0 @@
-Date: 2015-01-18 16:07:43
-
-----
-
-User: crisp_concepts
-
-----
-
-Text: It's possible you're trying to keep this lean, but check out this (link: http://getkirby.com/forum/code-snippets/20141201/fontawesome-icon-tag text: fontawesome kirby tag) I made. It may fit in well with this. I have no qualms with you including it in your project as long as you're sharing it for free. :)

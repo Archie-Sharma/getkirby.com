@@ -1,9 +1,0 @@
-User: immoralaural
-
-----
-
-Date: 2014-07-15 00:01:34
-
-----
-
-Text: yes it's in a foreach loop per page but that's not the problem... your way gets ALL the images, which I don't want. It's not needed

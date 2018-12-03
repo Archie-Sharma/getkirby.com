@@ -1,5 +1,0 @@
-Title: Upcoming…
-
-----
-
-Link: changelog/kirby-2-3-0

@@ -1,9 +1,0 @@
-Date: 2015-01-16 22:06:35
-
-----
-
-User: texnixe
-
-----
-
-Text: Can you give some more details about those files that don't work? I had a similar problem recently which was odd and after some digging I thought I had found the culprit (a parenthesis not closed within a list) but then I could not reproduce it again.

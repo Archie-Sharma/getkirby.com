@@ -1,9 +1,0 @@
-User: Crisp_Concepts
-
-----
-
-Date: 2014-06-29 17:16:17
-
-----
-
-Text: In my experience, Kirby seems to be smart enough to interpret that if($page->text()) is false if it's empty, even if it does exist in the blueprint. Maybe I've just been lucky somehow? I mostly play with 2.0 these days, but I believe I remember this being the case in 1.0 as well. I use the same snippet I shared above frequently.

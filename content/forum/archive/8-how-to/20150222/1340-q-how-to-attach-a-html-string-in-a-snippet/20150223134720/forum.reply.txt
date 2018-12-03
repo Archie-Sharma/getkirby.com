@@ -1,9 +1,0 @@
-Date: 2015-02-23 13:47:20
-
-----
-
-User: texnixe
-
-----
-
-Text: You can just add it right after the php code as is, I suggest you add an aria-hidden="true" attribute to the i-element, so that the icon is not read out when users use screen readers. If the icon carries information, you should add another span that contains text information for screen readers only.

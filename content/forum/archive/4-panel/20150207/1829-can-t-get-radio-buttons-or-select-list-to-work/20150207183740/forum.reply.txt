@@ -1,9 +1,0 @@
-Date: 2015-02-07 18:37:40
-
-----
-
-User: brendandawes
-
-----
-
-Text: Solved it - invisible characters were screwing it up!

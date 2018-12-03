@@ -1,5 +1,0 @@
-Title: Code snippets
-
-----
-
-Text: Share your Kirby-related code snippets

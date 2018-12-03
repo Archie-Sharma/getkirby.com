@@ -1,7 +1,0 @@
-Title: Marc Thiele
-----
-Username: marcthiele
-----
-Tweet: https://twitter.com/marcthiele
-----
-Text: Quick. Well documented. Best support. With Kirby a basic site setup is done within 5 minutes. Brilliant.

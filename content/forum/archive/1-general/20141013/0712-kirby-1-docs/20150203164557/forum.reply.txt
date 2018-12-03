@@ -1,9 +1,0 @@
-Date: 2015-02-03 16:45:57
-
-----
-
-User: nsteiner
-
-----
-
-Text: Here they are [http://v1.getkirby.com/docs](http://v1.getkirby.com/docs)

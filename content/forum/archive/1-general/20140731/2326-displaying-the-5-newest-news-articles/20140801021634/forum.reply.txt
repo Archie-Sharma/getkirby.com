@@ -1,9 +1,0 @@
-User: fitzage
-
-----
-
-Date: 2014-08-01 02:16:34
-
-----
-
-Text: Regarding end date, when you create a field with the name `date`, Kirby recognizes it as a date field for easy display and sorting. If you create a second field for the end date, Kirby won't recognize it as a date field automatically, so you'll have to use standard PHP methods to parse it.

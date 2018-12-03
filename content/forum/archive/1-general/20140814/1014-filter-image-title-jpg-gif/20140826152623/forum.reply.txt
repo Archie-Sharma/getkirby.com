@@ -1,9 +1,0 @@
-User: texnixe
-
-----
-
-Date: 2014-08-26 15:26:23
-
-----
-
-Text: If $image gives you the URL, then in the image tag `echo $image`instead of `echo $image->url()`should do it.

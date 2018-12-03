@@ -1,9 +1,0 @@
-Date: 2014-11-07 13:21:31
-
-----
-
-User: texnixe
-
-----
-
-Text: Using the Google Drive API, you should be able to tap into your spreadsheet and read the data into Kirby pages.

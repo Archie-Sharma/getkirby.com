@@ -1,9 +1,0 @@
-Date: 2014-12-29 23:35:57
-
-----
-
-User: texnixe
-
-----
-
-Text: I'd suggest  to use CSS margins or padding instead of <br> tags to visually separate the articles, it's not good style to use those br-tags for that purpose and less flexible anyway.

@@ -5,8 +5,3 @@ Title: Something went wrong...
 Text:
 
 ## The page has not been found.
-
-We've overhauled the entire website for Kirby 2.
-This might have led to some broken links.
-
-**Please let us know if you can't find what you are looking for: <support@getkirby.com>!**

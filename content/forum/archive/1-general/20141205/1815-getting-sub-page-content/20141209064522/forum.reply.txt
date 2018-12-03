@@ -1,9 +1,0 @@
-Date: 2014-12-09 06:45:22
-
-----
-
-User: texnixe
-
-----
-
-Text: If you do `a::show` you always get what looks like a complete page-object, even if it is just the title (because it is an object). So if you return  `$page->content()` as $content in your controller, you should be able to access the individual fields as `$content->title()`or `$content->text()`in your template.

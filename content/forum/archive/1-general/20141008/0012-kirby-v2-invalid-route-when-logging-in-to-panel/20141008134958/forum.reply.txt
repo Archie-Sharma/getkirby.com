@@ -1,9 +1,0 @@
-Date: 2014-10-08 13:49:58
-
-----
-
-User: syropian
-
-----
-
-Text: I'm still not sure what the issue was, but I deleted the existing account and recreated it, and it works fine. When I recreated it, it said my avatars and accounts folder wasn't writable, so that could have been the issue before, and the error just didn't reflect it.

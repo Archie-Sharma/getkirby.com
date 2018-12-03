@@ -1,9 +1,0 @@
-Date: 2014-10-27 12:03:12
-
-----
-
-User: texnixe
-
-----
-
-Text: Hi Carsten, that's all you have to do, plus link to the php file in the header, of course ... What happens if you call the file in the browser directly?

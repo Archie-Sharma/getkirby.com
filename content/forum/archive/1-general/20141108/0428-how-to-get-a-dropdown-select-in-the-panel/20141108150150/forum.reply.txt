@@ -1,9 +1,0 @@
-Date: 2014-11-08 15:01:50
-
-----
-
-User: wilhearts
-
-----
-
-Text: The new [User](http://getkirby.com/docs/cheatsheet/panel-fields/user) field does just that.

@@ -1,9 +1,0 @@
-User: fitzage
-
-----
-
-Date: 2014-07-15 02:07:21
-
-----
-
-Text: The above answers assume you want to find the images in all children of the parent page. If you want to find the images in a specific page, you would find the child page first using `$pages->find('path/to/page')` and then use the images loop.

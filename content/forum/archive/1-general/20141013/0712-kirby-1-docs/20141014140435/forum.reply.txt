@@ -1,9 +1,0 @@
-Date: 2014-10-14 14:04:35
-
-----
-
-User: gasmoor
-
-----
-
-Text: Same here. I had a fresh k1 install and am not ready to move it to k2. would be good to still have access to legacy documentation...

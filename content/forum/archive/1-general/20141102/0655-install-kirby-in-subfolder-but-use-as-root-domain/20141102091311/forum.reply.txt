@@ -1,9 +1,0 @@
-Date: 2014-11-02 09:13:11
-
-----
-
-User: texnixe
-
-----
-
-Text: In your domain settings, you can simply point your domain to the subfolder on your webspace, no need to use .htaccess .

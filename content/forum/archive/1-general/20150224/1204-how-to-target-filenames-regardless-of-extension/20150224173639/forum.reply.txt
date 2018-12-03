@@ -1,9 +1,0 @@
-Date: 2015-02-24 17:36:39
-
-----
-
-User: texnixe
-
-----
-
-Text: Probably `$files->filterBy('name', '!=', 'name-of-file-without-extension')` ...

@@ -1,9 +1,0 @@
-Date: 2015-01-12 14:40:18
-
-----
-
-User: texnixe
-
-----
-
-Text: Have a look at /kirby/core/page.php, you can pass a sort option ...

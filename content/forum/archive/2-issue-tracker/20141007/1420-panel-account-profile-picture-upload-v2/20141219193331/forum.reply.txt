@@ -1,9 +1,0 @@
-Date: 2014-12-19 19:33:31
-
-----
-
-User: _jondo_
-
-----
-
-Text: It doesn't seem like this issue has been addressed yet (or a temporary solution has yet to be provided), so I'll go ahead and bump this. I've tried taking a look around and comparing how the media manager handles its uploads in comparison to how the avatar is uploaded, but I got lost pretty damn quick.

@@ -1,5 +1,0 @@
-Title: Issue tracker
-
-----
-
-Text: Found a bug? Let us know!

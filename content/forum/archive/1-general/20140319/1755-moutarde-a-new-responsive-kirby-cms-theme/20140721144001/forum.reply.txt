@@ -1,9 +1,0 @@
-User: twachti
-
-----
-
-Date: 2014-07-21 14:40:01
-
-----
-
-Text: Will there be a version for Kirby v2?

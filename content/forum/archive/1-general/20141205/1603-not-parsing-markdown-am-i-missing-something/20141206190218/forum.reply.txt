@@ -1,9 +1,0 @@
-Date: 2014-12-06 19:02:18
-
-----
-
-User: corygibbons
-
-----
-
-Text: Is your template using `$field->kirbytext()` or `$field->markdown()`?

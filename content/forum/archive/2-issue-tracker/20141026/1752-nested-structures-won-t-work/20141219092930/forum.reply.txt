@@ -1,9 +1,0 @@
-Date: 2014-12-19 09:29:30
-
-----
-
-User: texnixe
-
-----
-
-Text: "Preise" must be spelled with a lower-case "p".

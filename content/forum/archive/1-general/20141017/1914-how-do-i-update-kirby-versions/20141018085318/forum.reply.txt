@@ -1,9 +1,0 @@
-Date: 2014-10-18 08:53:18
-
-----
-
-User: carstengrimm
-
-----
-
-Text: You would just need to update  the Kirby & panel folder by  replacing both folders from a newer version.

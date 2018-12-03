@@ -1,9 +1,0 @@
-Date: 2015-02-05 12:45:41
-
-----
-
-User: texnixe
-
-----
-
-Text: You can either add a separate section for the current page or you append the children to the current page to create a page collection first and then use the foreach loop on that collection.

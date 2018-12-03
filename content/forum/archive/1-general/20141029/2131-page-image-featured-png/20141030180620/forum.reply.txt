@@ -1,9 +1,0 @@
-Date: 2014-10-30 18:06:20
-
-----
-
-User: _danielschmid
-
-----
-
-Text: I've just opend my site and, miracle, it works now. Im not sure what happend but the code i've posted now works perfectly.  Maybe a problem with my local PHP config ?? I try to reproduce the error...

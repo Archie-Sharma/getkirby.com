@@ -1,9 +1,0 @@
-User: russbaldwin
-
-----
-
-Date: 2013-02-27 16:44:22
-
-----
-
-Text: I expect most bots can understand you obfuscation anyway, best bet maybe to use a form?

@@ -1,9 +1,0 @@
-Date: 2014-10-09 15:17:54
-
-----
-
-User: aminalhazwani
-
-----
-
-Text: Ok, I found a solution myself. Silly mistake. The rewritebase rule must be ``RewriteBase /``.

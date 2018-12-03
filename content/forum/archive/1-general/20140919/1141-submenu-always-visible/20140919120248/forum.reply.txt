@@ -1,9 +1,0 @@
-User: texnixe
-
-----
-
-Date: 2014-09-19 12:02:48
-
-----
-
-Text: This is due to the fact that from the point of view of the newsitem pages those pages are not children but siblings. One solution would be to include different snippets in the template depending on the page you are on or use an if statement in the snippet itself that looks either for children or siblings ...

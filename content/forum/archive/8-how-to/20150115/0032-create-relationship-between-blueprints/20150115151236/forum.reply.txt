@@ -1,9 +1,0 @@
-Date: 2015-01-15 15:12:36
-
-----
-
-User: texnixe
-
-----
-
-Text: Why not use two fields (location and profile) in events? For each field you can use a select box together with a query (http://getkirby.com/docs/cheatsheet/panel-fields/select). That way it is easy for the user to select the relevant profile and location.

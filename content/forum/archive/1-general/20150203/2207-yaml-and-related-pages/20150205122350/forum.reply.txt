@@ -1,9 +1,0 @@
-Date: 2015-02-05 12:23:50
-
-----
-
-User: texnixe
-
-----
-
-Text: You need to give the complete path,  the autocomplete function helps with entering the right path. At least it works in my test ... Having said that I just found that the autocomplete function is somehow buggy in structured fields, need to check this.

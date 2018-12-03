@@ -1,9 +1,0 @@
-User: evanofski_
-
-----
-
-Date: 2014-08-26 00:01:01
-
-----
-
-Text: I figured this out! I had my existing text files all still named 'default.txt' all I had to do was rename them to match the template: 'design.txt' and that fixed everything.

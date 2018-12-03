@@ -1,9 +1,0 @@
-Date: 2015-01-11 23:57:00
-
-----
-
-User: texnixe
-
-----
-
-Text: Have a look at `str::parse`, it has several methods incl. url: http://getkirby.com/docs/toolkit/api/str/parse.

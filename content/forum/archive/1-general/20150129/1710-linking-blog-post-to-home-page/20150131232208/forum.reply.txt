@@ -1,9 +1,0 @@
-Date: 2015-01-31 23:22:08
-
-----
-
-User: texnixe
-
-----
-
-Text: It should read `page('articles')`instead of `$page('articles')`, i.e. without the $ sign before page ...

@@ -1,9 +1,0 @@
-User: texnixe
-
-----
-
-Date: 2014-07-24 17:00:46
-
-----
-
-Text: That's a good question, I just tested it and somehow it didn't work. However, when I replaced "Videos" in the text file with "Myvideos" and replaced all the $videos and $video in the template, it worked. I wonder if "video" is somehow reserved by kirby?

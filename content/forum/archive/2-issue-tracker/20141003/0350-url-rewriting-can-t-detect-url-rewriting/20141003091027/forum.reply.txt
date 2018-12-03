@@ -1,9 +1,0 @@
-User: UweGehring
-
-----
-
-Date: 2014-10-03 09:10:27
-
-----
-
-Text: Maybe your rewriting engine is not properly configured. Kirby comes with a .htaccess file which contains the necessary rewriting setup for Apache. But maybe in your Apache setup, .htaccess files are not allowed/recognized. Then you'll have to put this stuff in your apache configuration directly. It all depends on your Apache setup...

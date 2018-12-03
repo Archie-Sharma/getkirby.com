@@ -1,9 +1,0 @@
-Date: 2014-10-07 18:43:24
-
-----
-
-User: bastianallgeier
-
-----
-
-Text: Are you trying on a Windows machine? Seems like there's a problem with uploads on Windows.

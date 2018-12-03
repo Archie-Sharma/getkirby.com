@@ -1,9 +1,0 @@
-User: immoralaural
-
-----
-
-Date: 2014-07-15 00:09:36
-
-----
-
-Text: the second foreach just picks out all the images in a subfolder. it depends what you want to do

@@ -1,9 +1,0 @@
-Date: 2014-10-28 07:12:01
-
-----
-
-User: ericparren
-
-----
-
-Text: @codestalker ,  same problem here. I've posted about it earlier in this thread and I made  a separate post (http://getkirby.com/forum/issue-tracker/20141024/search-not-working-on-server), but the Kirby devs seem to be ignoring it.

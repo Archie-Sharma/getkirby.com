@@ -1,9 +1,0 @@
-Date: 2015-03-31 15:05:34
-
-----
-
-User: lukejayhatfield
-
-----
-
-Text: Loving Kirby 2, but can't find this feature anywhere. Can someone point me in the right direction to using a relative link for a file that's in the same folder as the text that refers to it?

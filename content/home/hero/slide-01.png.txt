@@ -1,1 +1,0 @@
-Caption: Kirby combines the power and flexibility of a file-based CMS with a beautiful and highly customizable web interface.

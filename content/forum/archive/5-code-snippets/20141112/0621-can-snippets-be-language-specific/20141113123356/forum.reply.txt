@@ -1,9 +1,0 @@
-Date: 2014-11-13 12:33:56
-
-----
-
-User: texnixe
-
-----
-
-Text: Doesn't seem to work, but you could use an if-else statement to include snippets depending on the language of the site.

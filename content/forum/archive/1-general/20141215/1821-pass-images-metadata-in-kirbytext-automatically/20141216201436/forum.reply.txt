@@ -1,9 +1,0 @@
-Date: 2014-12-16 20:14:36
-
-----
-
-User: texnixe
-
-----
-
-Text: Copy the code for the image tag from /kirby/extensions/tags.php, make your changes and save it in /site/tags ...

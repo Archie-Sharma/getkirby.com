@@ -1,9 +1,0 @@
-Date: 2015-03-14 10:51:38
-
-----
-
-User: invinciblesaad
-
-----
-
-Text: I am using DigitalOcean droplets via (link: http://www.cloudways.com/blog/digitalocean-clickngo/ text: Cloudways)

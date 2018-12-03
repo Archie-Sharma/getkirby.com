@@ -1,5 +1,9 @@
 <?php
 
+c::set('home', 'docs');
+
+c::Set('debug', true);
+
 c::set('markdown.extra', true);
 c::set('cache.driver', 'file');
 

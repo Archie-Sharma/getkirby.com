@@ -1,9 +1,0 @@
-User: texnixe
-
-----
-
-Date: 2014-09-04 06:53:45
-
-----
-
-Text: Have you tried to remove the text files and just display the folders without any text files in them?

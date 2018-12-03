@@ -1,9 +1,0 @@
-Date: 2014-12-01 11:16:50
-
-----
-
-User: craigmdennis
-
-----
-
-Text: Seems to have been a permissions issue. Couldn't tell you what fixed it.

@@ -1,9 +1,0 @@
-Date: 2014-12-09 16:12:44
-
-----
-
-User: louiswalch
-
-----
-
-Text: @texnixe Thanks. How can I output (debug) what values an object has (like content). I want to be able to test and see what was returned from the database. I will be doing some complicated logic behind what is queried in the controller, so during development I need to be able to see what was returned.

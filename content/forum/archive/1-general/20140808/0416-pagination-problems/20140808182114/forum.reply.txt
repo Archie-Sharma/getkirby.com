@@ -1,9 +1,0 @@
-User: fitzage
-
-----
-
-Date: 2014-08-08 18:21:14
-
-----
-
-Text: For future reference, the (link: http://getkirby.com/content/02-docs/kirby-cheatsheet.pdf text: cheatsheet) should be handy. But yes, `->first()` as mentioned above is the way to go.

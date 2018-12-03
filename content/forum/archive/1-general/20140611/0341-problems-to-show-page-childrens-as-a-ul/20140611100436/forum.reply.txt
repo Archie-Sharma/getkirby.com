@@ -1,9 +1,0 @@
-User: texnixe
-
-----
-
-Date: 2014-06-11 10:04:36
-
-----
-
-Text: You can't use the same name for all subfolders; although from the point of view of the folder structure, all the folders have different names. However, when building URLs, Kirby ignores the numbers in front - so using the same folder names would result in the articles having all the same URL.

@@ -1,9 +1,0 @@
-User: boerup
-
-----
-
-Date: 2014-06-12 19:48:42
-
-----
-
-Text: Ah, the divs with the floats didn't have specific width. That did the trick. Maybe delete this post?

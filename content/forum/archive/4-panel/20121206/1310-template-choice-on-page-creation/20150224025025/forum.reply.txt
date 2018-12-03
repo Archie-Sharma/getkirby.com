@@ -1,9 +1,0 @@
-Date: 2015-02-24 02:50:25
-
-----
-
-User: paulbovis
-
-----
-
-Text: This post was a big help. Restricting the template in the parent page blueprint was not made clear in the docs. Perhaps this should be added there.

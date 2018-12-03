@@ -1,9 +1,0 @@
-Date: 2015-01-08 17:57:43
-
-----
-
-User: ptrsrsn
-
-----
-
-Text: I see this snippet is from 2012. Is this still the preferred method to perform a check for a logged-in panel user?

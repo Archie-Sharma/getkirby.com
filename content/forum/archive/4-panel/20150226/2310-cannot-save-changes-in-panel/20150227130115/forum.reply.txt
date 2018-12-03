@@ -1,9 +1,0 @@
-Date: 2015-02-27 13:01:15
-
-----
-
-User: texnixe
-
-----
-
-Text: No, but I tested your blueprint in a test installation and it works just fine.

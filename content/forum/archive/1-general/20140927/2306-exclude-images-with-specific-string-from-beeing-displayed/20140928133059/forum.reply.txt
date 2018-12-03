@@ -1,9 +1,0 @@
-User: texnixe
-
-----
-
-Date: 2014-09-28 13:30:59
-
-----
-
-Text: $images = $page->images()->not('featured.jpg')

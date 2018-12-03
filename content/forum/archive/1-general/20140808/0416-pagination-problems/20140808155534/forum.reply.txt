@@ -1,9 +1,0 @@
-User: louiswalch
-
-----
-
-Date: 2014-08-08 15:55:34
-
-----
-
-Text: I only want to link to the first child, so the 0,1 is offset, limit which I found in the source code: https://github.com/bastianallgeier/kirbycms/blob/master/kirby/lib/pages.php#L47

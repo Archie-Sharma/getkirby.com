@@ -1,9 +1,0 @@
-Date: 2015-02-06 10:06:51
-
-----
-
-User: thomasguenther
-
-----
-
-Text: I love this idea. Even if you're currently logged out, Kirby will remember the page after logging in. **Thank you.**

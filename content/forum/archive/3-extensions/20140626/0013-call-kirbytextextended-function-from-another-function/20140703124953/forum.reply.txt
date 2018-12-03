@@ -1,9 +1,0 @@
-User: LucPestille
-
-----
-
-Date: 2014-07-03 12:49:53
-
-----
-
-Text: Can I use these functions directly in php, somehow, rather than just within a kirbytext field in a content file? Can I trick php in to thinking it's dealing with a kirbytext field when it's not?

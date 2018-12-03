@@ -1,9 +1,0 @@
-Date: 2014-11-05 16:59:54
-
-----
-
-User: gerricom
-
-----
-
-Text: If you want to get a certain page everywhere in your project `<?php $subpage = page('subpage-a'); ?>`should work. So in your case `<?php echo page('subpage-a')->title()?>`

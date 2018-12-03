@@ -1,9 +1,0 @@
-Date: 2015-02-02 10:35:59
-
-----
-
-User: texnixe
-
-----
-
-Text: Maybe the files are too big? Have you checked your php.ini, maybe you need to increase your upload file size?

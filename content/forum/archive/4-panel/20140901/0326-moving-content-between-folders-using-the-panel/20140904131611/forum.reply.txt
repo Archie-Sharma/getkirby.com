@@ -1,9 +1,0 @@
-User: medienbecken
-
-----
-
-Date: 2014-09-04 13:16:11
-
-----
-
-Text: Thanks for your answer! I think I'll stay with the "move it via FTP solution" since I want to have them in different folders. I was hoping, that there is a kind of panel hack to solve it.

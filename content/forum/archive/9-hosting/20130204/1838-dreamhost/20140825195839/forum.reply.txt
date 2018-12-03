@@ -1,9 +1,0 @@
-User: emiliethaler
-
-----
-
-Date: 2014-08-25 19:58:39
-
-----
-
-Text: @maguay Did you end up getting this resolved? I'm looking to start running Kirby on my DreamHost shared account...

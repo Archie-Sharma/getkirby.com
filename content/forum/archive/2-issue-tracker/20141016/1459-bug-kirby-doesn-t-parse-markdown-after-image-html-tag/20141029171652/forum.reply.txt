@@ -1,9 +1,0 @@
-Date: 2014-10-29 17:16:52
-
-----
-
-User: bastianallgeier
-
-----
-
-Text: Sorry for the delay. This is a known bug in parsedown (the new Markdown parser, which is being used by Kirby) An issue for this has already been filed and I just sent a notifier about it: https://github.com/erusev/parsedown/issues/133

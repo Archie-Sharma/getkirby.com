@@ -1,9 +1,0 @@
-User: louiswalch
-
-----
-
-Date: 2014-08-08 19:06:35
-
-----
-
-Text: Thanks, I will give that a shot. Any idea why the second example is not working?

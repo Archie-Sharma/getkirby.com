@@ -1,9 +1,0 @@
-Date: 2014-12-16 13:21:48
-
-----
-
-User: texnixe
-
-----
-
-Text: Does your hosting  service support URL rewriting? If not, disable url rewrite in the config options.

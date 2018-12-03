@@ -1,9 +1,0 @@
-Date: 2014-10-15 09:16:01
-
-----
-
-User: texnixe
-
-----
-
-Text: It would probably help if you could post your htaccess and your config files ? Have you tried to disable rewriting?

@@ -1,9 +1,0 @@
-Date: 2014-12-09 20:02:30
-
-----
-
-User: louiswalch
-
-----
-
-Text: Cool, thanks.  I might customize Kirby so __toString() would support outputting debug information for a collection.

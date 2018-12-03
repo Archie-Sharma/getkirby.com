@@ -1,9 +1,0 @@
-Date: 2014-10-29 19:17:55
-
-----
-
-User: bastianallgeier
-
-----
-
-Text: I'm not 100% sure how FitVids.js works, but the problem might come from Kirby 2 using the iframe embed codes for vimeo and youtube to embed videos. Could this be the reason?

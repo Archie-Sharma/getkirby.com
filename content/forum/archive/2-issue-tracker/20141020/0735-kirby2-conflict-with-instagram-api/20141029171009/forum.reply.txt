@@ -1,9 +1,0 @@
-Date: 2014-10-29 17:10:09
-
-----
-
-User: bastianallgeier
-
-----
-
-Text: Hm, I don't see why this should break in Kirby 2. There should be no conflict at all. I recommend to switch to something javascript-based like http://instafeedjs.com/ though. It seems to be a much more reliable solution.

@@ -1,9 +1,0 @@
-User: texnixe
-
-----
-
-Date: 2014-08-05 12:43:39
-
-----
-
-Text: As regards your side question, if you want to count the images, you can use `$page->images()->count();`. $page->images() returns an object, not an array, so you can't use `count` to get the number of images.

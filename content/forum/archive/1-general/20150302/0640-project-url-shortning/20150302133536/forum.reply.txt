@@ -1,9 +1,0 @@
-Date: 2015-03-02 13:35:36
-
-----
-
-User: getrank
-
-----
-
-Text: Check out docs: http://getkirby.com/docs/advanced/routing

@@ -1,6 +1,0 @@
-Title: Links to subpages don't work
-----
-Text:
-
-Make sure you've got Kirby's default .htaccess file in the main directory of your site and that mod_rewrite is enabled on your server. The .htaccess file often gets lost on Mac OS X during downloads or copying files because it is marked as invisible.
-

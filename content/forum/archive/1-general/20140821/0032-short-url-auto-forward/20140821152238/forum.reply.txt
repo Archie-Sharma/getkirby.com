@@ -1,9 +1,0 @@
-User: fitzage
-
-----
-
-Date: 2014-08-21 15:22:38
-
-----
-
-Text: You'd probably have to put it in your error template, but you could take the slug, look at the page index, loop through and filter out anything that doesn't have that ID for that field, and then redirect. Maybe I'm not sure if you could do all that and still include a PHP redirect, but you might be able to.

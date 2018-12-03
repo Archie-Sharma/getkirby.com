@@ -1,9 +1,0 @@
-Date: 2014-11-02 06:24:46
-
-----
-
-User: jimmyrittenborg
-
-----
-
-Text: Removing the language codes from the urls, could lead to SEO issues.

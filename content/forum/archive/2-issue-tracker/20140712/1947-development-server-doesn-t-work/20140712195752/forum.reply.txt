@@ -1,9 +1,0 @@
-User: DesignMeltdown
-
-----
-
-Date: 2014-07-12 19:57:52
-
-----
-
-Text: If I put in a URL that shouldn't exist...I get the normal 404 error page. I am certain it is a problem with the template connection. But I can't figure it out. It WORKS on one server and not the other (Same web hosting btw). No errors...just blank.

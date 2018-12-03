@@ -1,9 +1,0 @@
-Date: 2014-12-01 16:54:46
-
-----
-
-User: brndn
-
-----
-
-Text: Arg. Looks like it was a max filesize issue - sorry about that!

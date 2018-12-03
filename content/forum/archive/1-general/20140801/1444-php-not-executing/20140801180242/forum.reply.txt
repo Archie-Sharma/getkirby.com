@@ -1,9 +1,0 @@
-User: fitzage
-
-----
-
-Date: 2014-08-01 18:02:42
-
-----
-
-Text: If you want to execute PHP you either have to create a kirbytext extension to use it in the text file, or you have to use it in the template instead.

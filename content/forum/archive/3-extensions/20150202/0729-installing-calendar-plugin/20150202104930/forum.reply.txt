@@ -1,9 +1,0 @@
-Date: 2015-02-02 10:49:30
-
-----
-
-User: texnixe
-
-----
-
-Text: You need to add the calendar object to the template of the page where you want to display the calendar. The snippet(s) is(are) then called via the template as well.  You can then add the data for the calendar via the panel if you have set up the blueprint with the structure field for the calendar entries.

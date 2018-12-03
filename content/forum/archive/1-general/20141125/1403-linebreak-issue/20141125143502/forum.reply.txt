@@ -1,9 +1,0 @@
-Date: 2014-11-25 14:35:02
-
-----
-
-User: sashtown
-
-----
-
-Text: As far as I can see in your source right now, it seems to be working fine. Currently there are 4 `<p>` elements within the bio's `<div>` including 2 `<br>`s in the second one. You just have no styles applied yet to achieve some _visual_ sectioning I guess.

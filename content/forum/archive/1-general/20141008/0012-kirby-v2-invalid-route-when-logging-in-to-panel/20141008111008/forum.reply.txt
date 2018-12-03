@@ -1,9 +1,0 @@
-Date: 2014-10-08 11:10:08
-
-----
-
-User: syropian
-
-----
-
-Text: My .htaccess file is present,  as I use Git to pull down the code from a BitBucket repository.  :(

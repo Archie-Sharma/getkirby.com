@@ -1,9 +1,0 @@
-Date: 2014-10-29 17:07:39
-
-----
-
-User: bastianallgeier
-
-----
-
-Text: This is actually not cool! I need to make this clearer to users to not lock them out of the panel entirely. I just filed a bug for this on Github: https://github.com/getkirby/panel/issues/272

@@ -1,9 +1,0 @@
-Date: 2015-01-13 08:44:14
-
-----
-
-User: texnixe
-
-----
-
-Text: What about using either a comma separated list (like with tags) or structured (yaml) fields?

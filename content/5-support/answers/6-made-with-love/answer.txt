@@ -1,6 +1,0 @@
-Title: How do I add my site to the "Made with Kirby and <3" section?
-----
-Text:
-
-We are always excited to see new sites made with Kirby! Please send us a link to your site at <support@getkirby.com>. Please understand that we can only publish a selection of submitted websites.
-

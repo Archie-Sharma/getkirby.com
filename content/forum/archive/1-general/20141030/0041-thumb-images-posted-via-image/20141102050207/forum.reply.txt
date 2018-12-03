@@ -1,9 +1,0 @@
-Date: 2014-11-02 05:02:07
-
-----
-
-User: jimmyrittenborg
-
-----
-
-Text: Do anyone know if the default image:  tag, when drag'n drop insertion of images into fields the panel, can be modified though? otherwise, it wouldn't be a reliable solution and leading to all kinds of ~3000x3000px sized images in the frontend o_0

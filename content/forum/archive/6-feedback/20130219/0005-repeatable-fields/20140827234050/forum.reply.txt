@@ -1,9 +1,0 @@
-User: fitzage
-
-----
-
-Date: 2014-08-27 23:40:50
-
-----
-
-Text: Well, you can "use" it in the panel as a text field, I believe. So you won't have any fancy features for it in the panel, but you would be able to edit the YAML.

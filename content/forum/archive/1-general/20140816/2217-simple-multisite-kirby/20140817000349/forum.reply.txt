@@ -1,9 +1,0 @@
-User: fitzage
-
-----
-
-Date: 2014-08-17 00:03:49
-
-----
-
-Text: If you want URLs like you mentioned, all you need is subfolders within the content folder for each site. Not sure about putting them outside the install directory, though. But if you create folders mysite01 and mysite02 inside the content folder, you'll already have the kind of URL structure you're asking for.

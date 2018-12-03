@@ -1,9 +1,0 @@
-Date: 2014-10-10 17:16:36
-
-----
-
-User: texnixe
-
-----
-
-Text: I don't really know where the error stems from but the indentation of the info field is not correct, it should be directly in line with "title", so it would probably not show up. I think its always two blanks for each indentation level, plus you've got two "files:false" which is probably not a problem but at least unnecessary.

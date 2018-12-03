@@ -1,9 +1,0 @@
-Date: 2014-10-17 18:03:03
-
-----
-
-User: _danielschmid
-
-----
-
-Text: ok. so i can use YAML Syntax inside my .txt File. Makes sense. THX

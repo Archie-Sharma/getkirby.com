@@ -1,9 +1,0 @@
-Date: 2015-02-05 11:30:59
-
-----
-
-User: texnixe
-
-----
-
-Text: You can either extend the existing vimeo tag by copying it and making the necessary changes (e.g. add a figcaption option) or create your own tag (http://getkirby.com/docs/advanced/kirbytext)

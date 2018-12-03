@@ -1,9 +1,0 @@
-User: aminalhazwani
-
-----
-
-Date: 2014-08-22 15:51:15
-
-----
-
-Text: I have a similar issue, so any suggestion will help! If I place `<?php echo $image->url() ?>` within the `foreach` I can print all images. If I place `<?php echo thumb($image, array('width' => 300), false) ?>` I get just few of them.

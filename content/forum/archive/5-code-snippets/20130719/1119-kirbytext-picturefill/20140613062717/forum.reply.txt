@@ -1,9 +1,0 @@
-User: thomasgreenau
-
-----
-
-Date: 2014-06-13 06:27:17
-
-----
-
-Text: Great work. Looking forward to using picturefill with Kirby. I've tried the plugin approach - details here: <http://getkirby.com/forum/extensions/topic:1247/#post3839>

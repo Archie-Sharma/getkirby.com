@@ -1,9 +1,0 @@
-User: russbaldwin
-
-----
-
-Date: 2013-09-28 10:29:06
-
-----
-
-Text: Just add the JS to the specified template?

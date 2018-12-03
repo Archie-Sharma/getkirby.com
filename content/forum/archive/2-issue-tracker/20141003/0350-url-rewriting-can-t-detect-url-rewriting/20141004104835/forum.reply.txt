@@ -1,9 +1,0 @@
-User: Sulcalibur
-
-----
-
-Date: 2014-10-04 10:48:35
-
-----
-
-Text: Ok I fixed it by updating to the version 2 of Kirby. I have no idea what the problem was but it's working now.

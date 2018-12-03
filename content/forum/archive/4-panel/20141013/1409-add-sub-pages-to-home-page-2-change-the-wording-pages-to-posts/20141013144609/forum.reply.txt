@@ -1,9 +1,0 @@
-Date: 2014-10-13 14:46:09
-
-----
-
-User: ajdemetriades
-
-----
-
-Text: So by editing the blueprint>home.php and changing pages: false to pages true it gave me the option to add pages. I can now add pages to my homepage.

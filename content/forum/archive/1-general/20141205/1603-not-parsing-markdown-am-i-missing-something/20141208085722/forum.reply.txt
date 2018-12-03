@@ -1,9 +1,0 @@
-Date: 2014-12-08 08:57:22
-
-----
-
-User: cosmosmcr
-
-----
-
-Text: Ah, that was it. There was nothing I saw in the docs about having to specify, but that sorted it, thanks.

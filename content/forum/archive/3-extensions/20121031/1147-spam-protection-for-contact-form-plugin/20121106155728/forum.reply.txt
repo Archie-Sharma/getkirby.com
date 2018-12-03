@@ -1,9 +1,0 @@
-User: laurilii
-
-----
-
-Date: 2012-11-06 15:57:28
-
-----
-
-Text: @chrstphbach Mind sharing the code where you implemented that snippet to the plugin?

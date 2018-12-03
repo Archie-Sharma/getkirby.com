@@ -1,9 +1,0 @@
-Date: 2014-11-15 19:58:53
-
-----
-
-User: simsjames
-
-----
-
-Text: I have the same issue after trying v.2.0.4 for the first time...still no fix?

@@ -1,9 +1,0 @@
-Date: 2015-02-10 13:59:00
-
-----
-
-User: crisp_concepts
-
-----
-
-Text: Not from within the panel, no. You could easily do so in the file system. You may wish to suggest this as a feature on github though as it seems useful.

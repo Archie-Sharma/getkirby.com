@@ -1,9 +1,0 @@
-User: texnixe
-
-----
-
-Date: 2014-09-30 07:55:47
-
-----
-
-Text: I think you will have to transform the objects into arrays, merge them with array_merge, and then transform them back into objects.

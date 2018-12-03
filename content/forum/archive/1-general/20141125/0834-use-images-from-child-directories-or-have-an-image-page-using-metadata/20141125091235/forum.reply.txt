@@ -1,9 +1,0 @@
-Date: 2014-11-25 09:12:35
-
-----
-
-User: craigmdennis
-
-----
-
-Text: Ah ok. There was also a silent error (as it was encased in an `<img>` tag). Turns out when I upgraded to Yosemite the PHP library didn't include png in the DG library. (link: http://stackoverflow.com/a/26505558/394419 text: Here's a fix) in case anyone has the same issue

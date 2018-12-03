@@ -1,9 +1,0 @@
-Date: 2015-02-25 14:28:50
-
-----
-
-User: ausminternet
-
-----
-
-Text: $site()->pages()->index()->findBy('uid', a-news-article);

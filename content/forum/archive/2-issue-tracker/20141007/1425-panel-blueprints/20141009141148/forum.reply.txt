@@ -1,9 +1,0 @@
-Date: 2014-10-09 14:11:48
-
-----
-
-User: texnixe
-
-----
-
-Text: To me it looks as if there might be an indentation problem in your blueprint file?

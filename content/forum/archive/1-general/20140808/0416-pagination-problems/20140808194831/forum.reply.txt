@@ -1,9 +1,0 @@
-User: fitzage
-
-----
-
-Date: 2014-08-08 19:48:31
-
-----
-
-Text: Also in the cheatsheet: `$sibling->url()`

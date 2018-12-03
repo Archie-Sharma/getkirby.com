@@ -1,9 +1,0 @@
-Date: 2015-02-23 16:15:22
-
-----
-
-User: crisp_concepts
-
-----
-
-Text: For anyone interested in this feature you can use (link: https://github.com/ian-cox/Kirby-Color-Picker text: Ian Cox jquery-minicolor plugin implementation) or (link: https://github.com/ljacobs-sml/Kirby-Color-Picker text: my fork, which utilizes the spectrum.js plugin) and is configured with a color palette and transparency support out of the box.

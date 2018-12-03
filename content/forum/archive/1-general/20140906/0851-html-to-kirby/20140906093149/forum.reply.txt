@@ -1,9 +1,0 @@
-User: texnixe
-
-----
-
-Date: 2014-09-06 09:31:49
-
-----
-
-Text: To convert your content to markdown, you could use an HTML to markdown converter like e.g. (link: http://johnmacfarlane.net/pandoc/) or similar solutions

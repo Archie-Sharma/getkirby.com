@@ -1,9 +1,0 @@
-Date: 2015-02-27 18:36:12
-
-----
-
-User: meltajon
-
-----
-
-Text: Oh, I forgot to mention: this works fine on my local environment (MAMP) but the saving issue happens on the production server (Media Temple)

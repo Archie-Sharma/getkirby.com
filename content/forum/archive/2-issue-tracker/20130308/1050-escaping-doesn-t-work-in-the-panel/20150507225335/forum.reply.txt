@@ -1,9 +1,0 @@
-Date: 2015-05-07 22:53:35
-
-----
-
-User: jonesnickb
-
-----
-
-Text: I would like to print the character code for "<" which is  "& l t ;" (I'm adding the spaces so that this markdown does noes not format it). There seems to be no way to escape this so I don't simply get "<". Is there a way to escape the characters so that the markdown compiler does not interpret it as a "<", but simply the text?

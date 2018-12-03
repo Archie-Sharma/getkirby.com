@@ -1,9 +1,0 @@
-User: homegrown
-
-----
-
-Date: 2014-06-14 18:20:37
-
-----
-
-Text: Thanks, Bastian, for pointing me to statify.php (https://gist.github.com/bastianallgeier/5f182b30d4c90152b468), which seems to work well under Kirby2. There only remains for me to find out, why Kirby2beta1 seems to have difficulties in separating title from text in the content files ...

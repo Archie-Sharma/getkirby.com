@@ -1,5 +1,0 @@
-Title: How to…
-
-----
-
-Text: Share your custom Kirby solutions here.

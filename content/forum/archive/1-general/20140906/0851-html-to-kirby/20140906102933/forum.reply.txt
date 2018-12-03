@@ -1,9 +1,0 @@
-User: texnixe
-
-----
-
-Date: 2014-09-06 10:29:33
-
-----
-
-Text: There's a lot more information in the Kirby Cheat Sheet and in the Kirby tutorials on getkirby.com

@@ -1,9 +1,0 @@
-Date: 2014-11-22 11:15:13
-
-----
-
-User: chrstphbach
-
-----
-
-Text: Please note: v2 with extended Kirby 2 is out! Check it out here: https://github.com/mzur/kirby-calendar-plugin/tree/v2.0.0

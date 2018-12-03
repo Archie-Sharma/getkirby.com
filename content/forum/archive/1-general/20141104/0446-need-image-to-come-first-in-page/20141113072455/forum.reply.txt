@@ -1,9 +1,0 @@
-Date: 2014-11-13 07:24:55
-
-----
-
-User: chris_krammer
-
-----
-
-Text: Yes I do, but I don't prepend "Text: " before the article text.

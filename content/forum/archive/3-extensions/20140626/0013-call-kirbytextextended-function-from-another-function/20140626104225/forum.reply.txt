@@ -1,9 +1,0 @@
-User: bastianallgeier
-
-----
-
-Date: 2014-06-26 10:42:25
-
-----
-
-Text: You should go for $this->picture() in that case, because it's a class method.

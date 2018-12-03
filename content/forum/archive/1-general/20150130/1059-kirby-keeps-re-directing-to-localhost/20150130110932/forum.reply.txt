@@ -1,9 +1,0 @@
-Date: 2015-01-30 11:09:32
-
-----
-
-User: _momav
-
-----
-
-Text: So I just figured it out (morning eyes work way better). I enabled the default cache and when working on it locally it was caching the links that used localhost, and then when I used Git to commit the changes and then push to my server, it was copying those cache files in.

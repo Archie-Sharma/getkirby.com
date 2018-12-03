@@ -1,9 +1,0 @@
-Date: 2014-11-01 07:47:25
-
-----
-
-User: nilshendriks
-
-----
-
-Text: Yeah, I did find something similar in the issues thread and it has something to do with PHP 5.3 it seems. 2.0.3 should fix it.

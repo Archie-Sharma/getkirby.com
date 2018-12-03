@@ -1,9 +1,0 @@
-Date: 2014-11-30 20:29:51
-
-----
-
-User: texnixe
-
-----
-
-Text: The forth element needs a "clear:left"

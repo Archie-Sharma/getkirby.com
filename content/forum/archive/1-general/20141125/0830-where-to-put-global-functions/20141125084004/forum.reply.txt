@@ -1,9 +1,0 @@
-Date: 2014-11-25 08:40:04
-
-----
-
-User: texnixe
-
-----
-
-Text: If you put the function in the plugins folder, it is available anywhere (at least, that's the way I do it, don't know if there is a better way)

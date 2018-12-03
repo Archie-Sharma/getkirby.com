@@ -1,9 +1,0 @@
-Date: 2014-11-15 04:38:23
-
-----
-
-User: chris_krammer
-
-----
-
-Text: You said here (http://getkirby.com/forum/general/20141031/how-to-avoid-the-figure-tags-around-images/#20141101124631) that you can copy the image tag. Where, in which directory, can I find this tag? Or what do you actually mean by that?

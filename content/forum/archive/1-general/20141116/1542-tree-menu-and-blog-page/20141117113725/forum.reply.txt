@@ -1,9 +1,0 @@
-Date: 2014-11-17 11:37:25
-
-----
-
-User: texnixe
-
-----
-
-Text: It would probably be easier to use a flat folder structure together with (link:http://getkirby.com/docs/advanced/routing  text:routing) to achieve your desired URL structure and use topic and subtopic fields to build your navigation?

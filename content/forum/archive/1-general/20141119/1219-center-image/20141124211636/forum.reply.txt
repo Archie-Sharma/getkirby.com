@@ -1,9 +1,0 @@
-Date: 2014-11-24 21:16:36
-
-----
-
-User: joranovski
-
-----
-
-Text: @thinkitsimple @texnixe  You can find all about the intricacies of how to center items with CSS in this great article with sub-articles:  [http://css-tricks.com/centering-css-complete-guide/](http://css-tricks.com/centering-css-complete-guide/)

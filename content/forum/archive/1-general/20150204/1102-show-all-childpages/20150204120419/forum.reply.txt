@@ -1,9 +1,0 @@
-Date: 2015-02-04 12:04:19
-
-----
-
-User: texnixe
-
-----
-
-Text: You can use `$page->index()`to get all children, children of children etc. (http://getkirby.com/docs/cheatsheet/page/index).

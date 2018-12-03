@@ -1,9 +1,0 @@
-Date: 2014-10-29 19:30:50
-
-----
-
-User: bastianallgeier
-
-----
-
-Text: I think the key here is what `$time` actually contains. Would it be possible to get more insight into the project? Maybe full access to the folder structure? Just send me an email: <support@getkirby.com>

@@ -1,9 +1,0 @@
-User: isaac_topo
-
-----
-
-Date: 2014-07-15 15:23:35
-
-----
-
-Text: It seems that when you define a URL-KEY for a multi language site and use the `$pages->find()` on the *not default language* version of the site this does not return nothing, is posible?

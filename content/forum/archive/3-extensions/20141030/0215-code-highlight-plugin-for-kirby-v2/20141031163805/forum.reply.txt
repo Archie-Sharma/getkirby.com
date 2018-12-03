@@ -1,9 +1,0 @@
-Date: 2014-10-31 16:38:05
-
-----
-
-User: dc_schmid
-
-----
-
-Text: It doesnt, work for me. Where did you copy the highlight.php?

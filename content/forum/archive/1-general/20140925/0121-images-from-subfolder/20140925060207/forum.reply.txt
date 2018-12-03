@@ -1,9 +1,0 @@
-User: boerup
-
-----
-
-Date: 2014-09-25 06:02:07
-
-----
-
-Text: Ok - I am pretty sure I won't be able to do that on my own, though. I named the videos and the images the exact same - so they should automatically correspond to each other if only I could get all the images instead of only the first. The main page makes a gallery of both videos and images + the fancy box feature. That's why I thought it would be smart with a subfolder for the video thumbs....

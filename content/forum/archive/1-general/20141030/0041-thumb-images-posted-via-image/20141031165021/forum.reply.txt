@@ -1,9 +1,0 @@
-Date: 2014-10-31 16:50:21
-
-----
-
-User: texnixe
-
-----
-
-Text: The best way to do that would be to create a new thumb kirbytag based on the image tag, I guess.

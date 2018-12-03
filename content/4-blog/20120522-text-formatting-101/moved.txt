@@ -1,9 +1,0 @@
-Title: Text formatting 101
-
-----
-
-Date: 22.05.2012
-
-----
-
-Movedto: docs/content/text

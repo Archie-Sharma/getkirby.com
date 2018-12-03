@@ -1,9 +1,0 @@
-User: namaless
-
-----
-
-Date: 2014-08-26 16:19:13
-
-----
-
-Text: You can check the apache log errors? Not all php configurations see the error in the web page. You sure this host support mod_rewrite? If on other hosting working fine the problem isn't your site/project but the configuration from hosting. You can try the test file for kirbycms?

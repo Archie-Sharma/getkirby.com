@@ -1,9 +1,0 @@
-Date: 2014-12-05 17:05:40
-
-----
-
-User: texnixe
-
-----
-
-Text: You can define your own custom kirbytext tag: http://getkirby.com/docs/advanced/kirbytext

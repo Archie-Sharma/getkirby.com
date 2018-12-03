@@ -1,9 +1,0 @@
-Date: 2014-10-07 17:45:30
-
-----
-
-User: meltajon
-
-----
-
-Text: I guess an alternative question is: is there an elegant way of doing url() but relative instead of absolute?

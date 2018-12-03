@@ -1,9 +1,0 @@
-User: namaless
-
-----
-
-Date: 2014-08-26 16:23:17
-
-----
-
-Text: I don't test but if you use a <excerpt> function on articles I thinking you can't see the image. Please explain with code example your situation, we can't read in your mind :)

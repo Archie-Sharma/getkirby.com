@@ -1,9 +1,0 @@
-User: fingerlegs
-
-----
-
-Date: 2014-08-20 14:03:41
-
-----
-
-Text: Thank you for this! I modified it so I'm using $image->width() and $image->height() instead of $imageSize. Works great, thank you so much!

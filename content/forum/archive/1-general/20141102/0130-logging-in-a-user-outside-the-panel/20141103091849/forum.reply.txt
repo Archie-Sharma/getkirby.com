@@ -1,9 +1,0 @@
-Date: 2014-11-03 09:18:49
-
-----
-
-User: yollaradi
-
-----
-
-Text: Please look (link: http://getkirby.com/forum/general/20141103/front-end-authentification-global-firewall text: here) for a simplistic approach

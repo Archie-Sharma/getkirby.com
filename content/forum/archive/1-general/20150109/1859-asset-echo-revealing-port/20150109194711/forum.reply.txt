@@ -1,9 +1,0 @@
-Date: 2015-01-09 19:47:11
-
-----
-
-User: jeremypaavola
-
-----
-
-Text: Found a fix: https://github.com/getkirby/toolkit/issues/35#issuecomment-67369486

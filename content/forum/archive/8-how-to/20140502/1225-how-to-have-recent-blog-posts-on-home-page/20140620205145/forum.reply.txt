@@ -1,9 +1,0 @@
-User: samlinville
-
-----
-
-Date: 2014-06-20 20:51:45
-
-----
-
-Text: So, this may also be a newbie question, but once I've called this, how can I display custom fields? I want to be able to list the title, subtitle, and featured image. Would I just call these elements within "children()" that you've put above? Any help would be greatly appreciated. Thanks!

@@ -1,9 +1,0 @@
-Date: 2014-11-09 17:34:59
-
-----
-
-User: _danielschmid
-
-----
-
-Text: I've just learned about urlencode.  So i'm using  a combination of `urlencode()` and `urldecode()` and it seem to works for what i need.

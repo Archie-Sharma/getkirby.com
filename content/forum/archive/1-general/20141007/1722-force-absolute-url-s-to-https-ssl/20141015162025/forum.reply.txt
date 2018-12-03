@@ -1,9 +1,0 @@
-Date: 2014-10-15 16:20:25
-
-----
-
-User: meltajon
-
-----
-
-Text: @syropian @texnixe Hmm I've tried both options and neither are working for me on v2. Some of the config options from v1 work in v2, but in these two cases, they don't. =/

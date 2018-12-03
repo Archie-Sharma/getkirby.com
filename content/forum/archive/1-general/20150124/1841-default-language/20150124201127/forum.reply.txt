@@ -1,9 +1,0 @@
-Date: 2015-01-24 20:11:27
-
-----
-
-User: jkbplns
-
-----
-
-Text: Are you using Kirby 2? If so, use the new languages array: (link: http://getkirby.com/docs/languages/setup).

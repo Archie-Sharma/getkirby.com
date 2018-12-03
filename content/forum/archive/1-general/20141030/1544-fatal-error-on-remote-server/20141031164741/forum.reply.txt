@@ -1,9 +1,0 @@
-Date: 2014-10-31 16:47:41
-
-----
-
-User: texnixe
-
-----
-
-Text: I think you should send a mail to Bastian this might be due to some changes in 2.0.2, line 198 has been changed in 2.0.3 which is not out yet ...

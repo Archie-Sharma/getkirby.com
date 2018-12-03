@@ -1,9 +1,0 @@
-Date: 2015-01-27 12:18:16
-
-----
-
-User: andresiggia
-
-----
-
-Text: Same "unexpected error" to me, but only on my client's host. Kirby works fine on Dreamhost but I can't make the panel work on KingHost. Could it be some problem with permissions or some PHP limitation?

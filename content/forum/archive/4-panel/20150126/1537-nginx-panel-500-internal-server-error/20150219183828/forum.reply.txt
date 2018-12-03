@@ -1,9 +1,0 @@
-Date: 2015-02-19 18:38:28
-
-----
-
-User: russbaldwin
-
-----
-
-Text: Have you seen [this gist](https://gist.github.com/bastianallgeier/c2e1f1e519f5f2943ec4)?

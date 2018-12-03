@@ -1,9 +1,0 @@
-Date: 2014-12-30 13:16:50
-
-----
-
-User: mydarktime
-
-----
-
-Text: It does not work for me. Just puts up a link and something like a lightbox without any image :(

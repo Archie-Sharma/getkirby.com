@@ -1,9 +1,0 @@
-Date: 2014-10-29 16:41:35
-
-----
-
-User: bastianallgeier
-
-----
-
-Text: It's a bug with the very first 2.0 release, which still renamed the home page without further notice. This bug is fixed now.

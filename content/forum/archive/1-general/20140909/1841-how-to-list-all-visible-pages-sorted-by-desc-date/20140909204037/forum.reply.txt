@@ -1,9 +1,0 @@
-User: fitzage
-
-----
-
-Date: 2014-09-09 20:40:37
-
-----
-
-Text: The default sort order is by the numbers in the folder names, so flipping will only reverse that, not change it to date sorting. You'll want to use the `->sortBy($sort='title', $direction='desc')` function (assuming it works on the index).

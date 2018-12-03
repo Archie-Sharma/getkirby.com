@@ -1,9 +1,0 @@
-User: texnixe
-
-----
-
-Date: 2014-06-25 09:26:30
-
-----
-
-Text: Well, no, it just removes the p-tags around images

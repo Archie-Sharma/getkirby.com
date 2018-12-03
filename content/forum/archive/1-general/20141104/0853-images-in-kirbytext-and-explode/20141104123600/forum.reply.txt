@@ -1,9 +1,0 @@
-Date: 2014-11-04 12:36:00
-
-----
-
-User: _frankallen
-
-----
-
-Text: Should be the first paragraph.

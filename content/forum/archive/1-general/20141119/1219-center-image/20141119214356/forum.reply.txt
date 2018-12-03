@@ -1,9 +1,0 @@
-Date: 2014-11-19 21:43:56
-
-----
-
-User: texnixe
-
-----
-
-Text: @carstengrimm the center tag is not supported in HTML5 , plus it is not a semantic element; presentation and content/structure should be separated, that's why CSS is used for styling and that's why centering elements should take place in the CSS and not in the HTML.

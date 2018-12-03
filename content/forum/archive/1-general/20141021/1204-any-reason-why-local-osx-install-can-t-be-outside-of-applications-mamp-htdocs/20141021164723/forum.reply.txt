@@ -1,9 +1,0 @@
-Date: 2014-10-21 16:47:23
-
-----
-
-User: texnixe
-
-----
-
-Text: You can point MAMP to any directory you like, just open "Preferences" and set the root directory as desired.

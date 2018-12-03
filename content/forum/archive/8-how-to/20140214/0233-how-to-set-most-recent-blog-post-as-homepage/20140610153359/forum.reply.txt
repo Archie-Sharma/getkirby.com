@@ -1,9 +1,0 @@
-User: fitzage
-
-----
-
-Date: 2014-06-10 15:33:59
-
-----
-
-Text: You could just set the homepage template to be a PHP redirect, and then pull the latest blog post like you did above. I think that would work.

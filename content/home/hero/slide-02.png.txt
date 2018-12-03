@@ -1,1 +1,0 @@
-Caption: Kirby's file manager comes with built-in drag & drop upload, sortable files and instant previews.

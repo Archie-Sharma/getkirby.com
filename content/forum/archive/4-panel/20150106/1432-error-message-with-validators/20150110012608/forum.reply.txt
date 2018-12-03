@@ -1,9 +1,0 @@
-Date: 2015-01-10 01:26:08
-
-----
-
-User: texnixe
-
-----
-
-Text: In your code means you can use it anywhere, e.g. in your templates to validate input in a form field. The error message will then be displayed on your page, not in the Panel. If you want to validate panel input, use the blueprint.

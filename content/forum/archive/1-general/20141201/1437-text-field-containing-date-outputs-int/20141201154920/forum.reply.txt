@@ -1,9 +1,0 @@
-Date: 2014-12-01 15:49:20
-
-----
-
-User: texnixe
-
-----
-
-Text: Have you read the docs? http://getkirby.com/docs/cheatsheet/page/date

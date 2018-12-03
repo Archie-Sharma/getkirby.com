@@ -1,9 +1,0 @@
-Date: 2014-10-13 19:01:15
-
-----
-
-User: texnixe
-
-----
-
-Text: It makes it easier to handle images depending on image dimensions like width, height, aspect ratio or whatever ... e.g. if you just want to pull landscape images or whatever like `if ($dimension->landscape()) {do stuff;}`

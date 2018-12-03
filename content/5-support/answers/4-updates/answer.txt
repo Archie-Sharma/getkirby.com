@@ -1,6 +1,0 @@
-Title: Will updates be free?
-----
-Text:
-
-Minor updates of Kirby (i.e. 2.1 to 2.2) will be free.
-Users with an older license will get a discount for major upgrades (i.e. 2.x to 3.0).

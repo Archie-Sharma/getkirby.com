@@ -1,9 +1,0 @@
-Date: 2014-12-16 15:12:27
-
-----
-
-User: adamtoreilly
-
-----
-
-Text: @qkevinto Did you ever find a fix for this -- I am also running on Bluehost and ran into a snag with way Bluehost organizes add-on sub-domains.

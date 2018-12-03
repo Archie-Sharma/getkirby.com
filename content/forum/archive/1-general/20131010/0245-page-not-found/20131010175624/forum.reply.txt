@@ -1,9 +1,0 @@
-User: RumanAmin
-
-----
-
-Date: 2013-10-10 17:56:24
-
-----
-
-Text: Surprisingly, the .htaccess file wasn't uploaded automatically. It works now, the pages navigation to one another - expect the contact page for some reason?

@@ -1,9 +1,0 @@
-Date: 2014-10-29 22:41:32
-
-----
-
-User: texnixe
-
-----
-
-Text: What do you mean by "nothing happens". No url in the image tag? Wrong url? The code looks ok to me, what happens if you put the snippet code into the template without the $data bit?

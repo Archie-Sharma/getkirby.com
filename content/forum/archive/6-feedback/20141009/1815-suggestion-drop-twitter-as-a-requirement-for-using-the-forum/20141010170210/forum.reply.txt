@@ -1,9 +1,0 @@
-Date: 2014-10-10 17:02:10
-
-----
-
-User: marc_martijn
-
-----
-
-Text: Well, wat's wrong with having new members register with a username/password combination without a third party API? That how the internet has been doing it for ages. I suppose it's not forward thinking method but it does work for everyone, not just Twitter users.

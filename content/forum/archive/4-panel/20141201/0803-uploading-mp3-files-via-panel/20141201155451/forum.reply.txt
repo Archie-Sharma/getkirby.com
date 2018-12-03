@@ -1,9 +1,0 @@
-Date: 2014-12-01 15:54:51
-
-----
-
-User: texnixe
-
-----
-
-Text: Nope, I haven't made any edits to the config and it shouldn't be necessary for mp3 anyway because it a standard MIME type (see supported file types: http://getkirby.com/docs/content/media). Are you sure it's a Kirby related problem and not something on the server side? Have you checked the error logs?

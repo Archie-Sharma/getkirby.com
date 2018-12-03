@@ -1,9 +1,0 @@
-Date: 2014-12-04 15:09:16
-
-----
-
-User: louiswalch
-
-----
-
-Text: The solution by @wilhearts would not work for people have Javscript disabled of if someone right-clicks on the link to download it directly. You would need to route the file download through PHP to have a more reliable way to do this. That being said, this functionality is not built into Kirby and would need to built as custom development.

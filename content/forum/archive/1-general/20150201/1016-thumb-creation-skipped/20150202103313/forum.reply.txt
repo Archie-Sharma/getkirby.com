@@ -1,9 +1,0 @@
-Date: 2015-02-02 10:33:13
-
-----
-
-User: texnixe
-
-----
-
-Text: Well, the code is obviously correct and it should work. Images too big? Images smaller than resulting thumbs? Thumb folder writable? Too many images? Cache problem? Does the code generate any thumbs in the thumb folder or none at all?

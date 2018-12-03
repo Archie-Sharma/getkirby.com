@@ -1,9 +1,0 @@
-Date: 2015-02-21 20:38:58
-
-----
-
-User: duncanmunro
-
-----
-
-Text: **update:** if i mess with kirby/kirby.php around line 226 (// tinyurl handling) i can get kirby to happily echo the correct url; so it's understood the hash and has found the page – and i can force a return to the error page ok but the 'go' function just never works – even if i drop in something blunt like 'go('http://getkirby.com');'  into the action function it never 'goes'.

@@ -1,9 +1,0 @@
-User: texnixe
-
-----
-
-Date: 2014-09-25 08:15:59
-
-----
-
-Text: Another possibility would be to use a helper variable, e.g. $count = 1, and then use findBy('name', $count) on the images. In this case, the images should be name 1.jpg, 2.jpg etc. $count should be increased by one at the end of each loop.

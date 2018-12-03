@@ -1,9 +1,0 @@
-User: texnixe
-
-----
-
-Date: 2014-07-06 21:36:35
-
-----
-
-Text: Never had this problem and can't reproduce it, but tested on 1.1.2

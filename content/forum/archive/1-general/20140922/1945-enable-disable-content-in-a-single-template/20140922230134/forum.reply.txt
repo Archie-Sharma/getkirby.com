@@ -1,9 +1,0 @@
-User: structor
-
-----
-
-Date: 2014-09-22 23:01:34
-
-----
-
-Text: It's not "on"! the condition for checkbox is 1 for "on". I edited the code above, sorry.

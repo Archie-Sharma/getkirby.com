@@ -1,9 +1,0 @@
-User: fitzage
-
-----
-
-Date: 2012-10-16 18:34:47
-
-----
-
-Text: Does this include any ICS generation capability for individual events, or would I still have to roll that myself?

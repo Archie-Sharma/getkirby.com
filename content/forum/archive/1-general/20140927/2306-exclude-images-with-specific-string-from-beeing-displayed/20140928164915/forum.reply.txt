@@ -1,9 +1,0 @@
-User: fitzage
-
-----
-
-Date: 2014-09-28 16:49:15
-
-----
-
-Text: I think you need to filter by 'name' not 'title'. Title can be included in a descriptive text file, but that's not what the filename is called.

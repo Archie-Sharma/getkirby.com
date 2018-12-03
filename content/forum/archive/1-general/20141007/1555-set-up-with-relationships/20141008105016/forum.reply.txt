@@ -1,9 +1,0 @@
-Date: 2014-10-08 10:50:16
-
-----
-
-User: russbaldwin
-
-----
-
-Text: I'm not sure I quite understand, but could you use tags for authors? That way each article can have multiple tags/authors for sorting/viewing?

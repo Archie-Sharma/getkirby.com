@@ -1,9 +1,0 @@
-User: jasonli
-
-----
-
-Date: 2014-07-30 14:59:47
-
-----
-
-Text: Thanks! Just wanted to second @verde_andrea's request that this be a feature of the Kirby panel as I've just implemented @s4mbra's hack.

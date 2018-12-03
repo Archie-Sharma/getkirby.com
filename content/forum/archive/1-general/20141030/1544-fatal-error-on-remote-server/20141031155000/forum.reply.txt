@@ -1,9 +1,0 @@
-Date: 2014-10-31 15:50:00
-
-----
-
-User: gerricom
-
-----
-
-Text: Does your php installation on your remote support the hu_HU-locale? Have you tried some other locals as well?

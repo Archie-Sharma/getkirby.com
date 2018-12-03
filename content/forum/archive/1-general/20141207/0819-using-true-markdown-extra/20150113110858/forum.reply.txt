@@ -1,9 +1,0 @@
-Date: 2015-01-13 11:08:58
-
-----
-
-User: erusev
-
-----
-
-Text: I believe that the issue with [Parsedown Extra](https://github.com/erusev/parsedown-extra) is now resolved.

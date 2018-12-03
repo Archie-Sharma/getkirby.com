@@ -1,9 +1,0 @@
-Date: 2015-01-12 16:40:40
-
-----
-
-User: eichhorn
-
-----
-
-Text: Any new information about this problem? I tried a clean installation (Kirby CMS Starter 2.0.5) with no luck. Once I logged in, the screen went blank.

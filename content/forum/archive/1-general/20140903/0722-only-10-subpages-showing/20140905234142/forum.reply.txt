@@ -1,9 +1,0 @@
-User: danpia
-
-----
-
-Date: 2014-09-05 23:41:42
-
-----
-
-Text: Not 100% sure but I think it was a conflict of .txt filenames and a missing image in one page (although I didn't set it as mandatory). Seems to work now, at least without Panel.

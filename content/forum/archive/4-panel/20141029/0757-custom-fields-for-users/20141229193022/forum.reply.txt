@@ -1,9 +1,0 @@
-Date: 2014-12-29 19:30:22
-
-----
-
-User: marc_martijn
-
-----
-
-Text: @robinbirr Your solution is exactly what I'm looking for as well. However, would it be possible to create a plugin for this so that the changes to user.edit.php won't be deleted when you update Kirby? I suppose it couldn't be that hard, but I've not tried to do something like this yet.

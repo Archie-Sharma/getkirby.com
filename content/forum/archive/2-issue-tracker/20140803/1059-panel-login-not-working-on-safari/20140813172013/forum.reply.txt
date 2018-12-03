@@ -1,9 +1,0 @@
-User: fitzage
-
-----
-
-Date: 2014-08-13 17:20:13
-
-----
-
-Text: Are you using the standard admin.php account? If so, you need to change it to a custom username and delete the admin.php example. At least I think that's what happened with me.

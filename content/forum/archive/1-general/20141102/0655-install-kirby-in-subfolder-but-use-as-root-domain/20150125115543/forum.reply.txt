@@ -1,9 +1,0 @@
-Date: 2015-01-25 11:55:43
-
-----
-
-User: qkevinto
-
-----
-
-Text: @adamtoreilly, sorry for the extremely late reply! But better late than never right? Unfortunately I never found a solution for this and simply just gave up. I even tried contacting Bluehost for advice and they simply told me to refer to their documentation for the code block which I posted above.

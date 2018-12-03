@@ -1,9 +1,0 @@
-Date: 2015-02-05 22:11:31
-
-----
-
-User: grahamharper
-
-----
-
-Text: I also found this quote confusing when I first used the panel but I don't think automatically making the page visible is the answer. Maybe something like a split button on new pages that gives you two options "Save" or "Save & Publish". This is the button while the page is invisible and once the page is visible this becomes just a Save button.

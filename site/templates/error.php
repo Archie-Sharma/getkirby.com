@@ -7,11 +7,6 @@
     <?php echo kirbytext($page->text()) ?>
   </section>
 
-  <section class="support-items">
-    <h2 class="alpha">Need support?</h2>
-    <?php snippet('supportbar') ?>
-  </section>
-
   <section>
     <h2 class="alpha margin-bottom">Searching for docs?</h2>
     <ul class="docs-index-list list-4">

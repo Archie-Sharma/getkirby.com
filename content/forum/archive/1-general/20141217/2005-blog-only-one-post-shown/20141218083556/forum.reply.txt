@@ -1,9 +1,0 @@
-Date: 2014-12-18 08:35:56
-
-----
-
-User: presidium
-
-----
-
-Text: Thanks, that fixed it.

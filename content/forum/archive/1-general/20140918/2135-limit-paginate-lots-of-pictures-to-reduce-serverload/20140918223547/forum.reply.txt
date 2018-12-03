@@ -1,9 +1,0 @@
-User: carstengrimm
-
-----
-
-Date: 2014-09-18 22:35:47
-
-----
-
-Text: in ajax the server has to list all files in the page's folder first too before loading? it's not the image sizes, it's rather the server wants to look though the folder and then does a foreach to print them on page...

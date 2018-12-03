@@ -1,9 +1,0 @@
-User: carstengrimm
-
-----
-
-Date: 2014-09-25 22:23:59
-
-----
-
-Text: before i got my hands on mini cart js, I had a run with simplecartjs but i felt like it was an abandoned js project. I was amazed from mini cart js even more so i stuck with it.

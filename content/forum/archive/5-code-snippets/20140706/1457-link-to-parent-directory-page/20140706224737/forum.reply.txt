@@ -1,9 +1,0 @@
-User: And1TM
-
-----
-
-Date: 2014-07-06 22:47:37
-
-----
-
-Text: I’m calling it in the snippet of project_1, not portfolio_1.

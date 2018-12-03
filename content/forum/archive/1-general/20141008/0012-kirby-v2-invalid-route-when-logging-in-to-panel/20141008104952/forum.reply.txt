@@ -1,9 +1,0 @@
-Date: 2014-10-08 10:49:52
-
-----
-
-User: iamgp
-
-----
-
-Text: Oh, figured it out. Make sure you have the .htaccess file in the directory. It might be hidden depending on your OS/setup.

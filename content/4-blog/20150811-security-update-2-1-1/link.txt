@@ -1,9 +1,0 @@
-Title: Kirby 2.1.1 — Security Update
-
-----
-
-Date: 11.08.2015
-
-----
-
-Link: changelog/kirby-2-1-1

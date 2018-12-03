@@ -1,9 +1,0 @@
-Date: 2014-11-07 08:05:19
-
-----
-
-User: jimmyrittenborg
-
-----
-
-Text: Sorry, my answer was wrong and only based of an experience i had maybe under the 2.0 beta - I've just tested it, and @texnixe is right - only setting width works as expected right out of the box :)

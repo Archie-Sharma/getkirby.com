@@ -1,9 +1,0 @@
-Date: 2014-11-19 14:05:10
-
-----
-
-User: crisp_concepts
-
-----
-
-Text: That would be the default location, yes. You also are welcome to create your own css file, and link to it from the header snippet ( ../site/snippets/header.php )

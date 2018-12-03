@@ -1,9 +1,0 @@
-Date: 2014-10-30 05:38:30
-
-----
-
-User: corygibbons
-
-----
-
-Text: There is very little to minify in HTML so the benefits would be nominal and not really worth the effort. If you're after performance I'd look into GZIP compression.

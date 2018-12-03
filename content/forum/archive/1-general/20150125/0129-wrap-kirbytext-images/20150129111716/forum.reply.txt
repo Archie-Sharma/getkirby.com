@@ -1,9 +1,0 @@
-Date: 2015-01-29 11:17:16
-
-----
-
-User: texnixe
-
-----
-
-Text: How about modifying the image tag to have a wrapper around them by default (or a new image tag with this wrapper around) and then create a another kirbytag for groups of images which takes a comma separated list of images as input (can't use drag & drop with this method though)

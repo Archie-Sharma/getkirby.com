@@ -1,9 +1,0 @@
-Date: 2014-12-18 08:12:39
-
-----
-
-User: texnixe
-
-----
-
-Text: If your articles' folders really all have the same name, then that's the problem.The name of the article without the prepended number is the uid of your page, therefore giving the same name to each folder would result in the same uid and the same url pointing to different articles which won't work.

@@ -1,5 +1,0 @@
-Title: Kirby changelog
-----
-Description: Releases and release information for Kirby CMS.
-----
-Page: changelog

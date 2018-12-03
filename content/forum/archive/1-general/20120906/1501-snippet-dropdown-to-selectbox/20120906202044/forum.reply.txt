@@ -1,9 +1,0 @@
-User: hey_steffen
-
-----
-
-Date: 2012-09-06 20:20:44
-
-----
-
-Text: For use in a 'responsive' layout-design?

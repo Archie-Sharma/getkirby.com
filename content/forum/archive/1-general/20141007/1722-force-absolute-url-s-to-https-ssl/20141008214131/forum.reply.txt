@@ -1,9 +1,0 @@
-Date: 2014-10-08 21:41:31
-
-----
-
-User: syropian
-
-----
-
-Text: In v1, there was an SSL config option, No clue where it went in v2 :/

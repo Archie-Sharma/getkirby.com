@@ -1,9 +1,0 @@
-Date: 2015-01-14 11:06:42
-
-----
-
-User: timgauthier
-
-----
-
-Text: are you willing to show what it may look like to move the mailsend to the controller. For those of us who are still learning the ways of PHP :)

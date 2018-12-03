@@ -1,9 +1,0 @@
-User: j_mes
-
-----
-
-Date: 2014-06-24 21:59:39
-
-----
-
-Text: From my understanding that'll rip out all of the paragraph tags even if its not an image? It's not really what I was looking for. I will wait for Kirby 2.0 to come out of beta then see if this thing has been fixed. Thank you for outlining a possible solution with PHP though.

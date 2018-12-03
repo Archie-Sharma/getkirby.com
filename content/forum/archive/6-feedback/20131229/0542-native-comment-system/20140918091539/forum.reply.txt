@@ -1,9 +1,0 @@
-User: structor
-
-----
-
-Date: 2014-09-18 09:15:39
-
-----
-
-Text: So, Chris, any news about this native comments system?

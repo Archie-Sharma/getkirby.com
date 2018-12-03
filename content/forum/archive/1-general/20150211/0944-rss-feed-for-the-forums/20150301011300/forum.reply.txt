@@ -1,9 +1,0 @@
-Date: 2015-03-01 01:13:00
-
-----
-
-User: texnixe
-
-----
-
-Text: It would probably the easiest just to implement it and issue a PR;)

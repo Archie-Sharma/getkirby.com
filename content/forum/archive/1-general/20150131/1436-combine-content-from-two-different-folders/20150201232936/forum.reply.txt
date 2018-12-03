@@ -1,9 +1,0 @@
-Date: 2015-02-01 23:29:36
-
-----
-
-User: _danielschmid
-
-----
-
-Text: @takaminacchan didn’t think about `sortBy()`. Works fine. Thank you.

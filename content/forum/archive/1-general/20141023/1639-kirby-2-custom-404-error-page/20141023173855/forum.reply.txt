@@ -1,9 +1,0 @@
-Date: 2014-10-23 17:38:55
-
-----
-
-User: texnixe
-
-----
-
-Text: Just put your error.text into content/error, if need be, create a custom error-template ... that should do the job. I think the default dark error page will still appear when there are other errors involved, though.

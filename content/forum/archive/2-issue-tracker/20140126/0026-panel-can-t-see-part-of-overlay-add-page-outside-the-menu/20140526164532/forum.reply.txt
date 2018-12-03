@@ -1,9 +1,0 @@
-User: philippelang
-
-----
-
-Date: 2014-05-26 16:45:32
-
-----
-
-Text: Downloading the panel from the dev branch did the trick for me.

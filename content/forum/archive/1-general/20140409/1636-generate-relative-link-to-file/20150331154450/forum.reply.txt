@@ -1,9 +1,0 @@
-Date: 2015-03-31 15:44:50
-
-----
-
-User: lukejayhatfield
-
-----
-
-Text: Wow, saw the drag and drop feature then found the (file:... ) syntax here: <http://getkirby.com/docs/content/text#files>. Works great!

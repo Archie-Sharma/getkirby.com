@@ -1,9 +1,0 @@
-Date: 2014-12-14 16:15:50
-
-----
-
-User: crisp_concepts
-
-----
-
-Text: I'm not sure what you mean by workaround. I've implemented grunt/scss into my workflows lately, including kirby projects. It can be installed just like it would be with any other project following various tutorials online.. you do your development locally, your LESS gets compiled to css, you commit and push changes to github, then deploy the project to server.

@@ -1,9 +1,0 @@
-Title: Will I get a proper invoice?
-----
-Text:
-
-All sales are handled by (link: http://fastspring.com/ text: Fastspring). You will get an invoice from them. They are specialized in managing purchases including tax collection and invoicing for each country.
-
-Here's an (file: de.png text: example invoice).
-
-If you got questions or complaints about invoices, please let me know <bastian@getkirby.com>

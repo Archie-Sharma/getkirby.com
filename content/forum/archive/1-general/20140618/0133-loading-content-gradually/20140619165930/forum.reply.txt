@@ -1,9 +1,0 @@
-User: MinmlCo
-
-----
-
-Date: 2014-06-19 16:59:30
-
-----
-
-Text: We have used it on our (link: http://minml.co text: Website) and it works pretty well. Its using JSON, I'll make a plugin for this :)

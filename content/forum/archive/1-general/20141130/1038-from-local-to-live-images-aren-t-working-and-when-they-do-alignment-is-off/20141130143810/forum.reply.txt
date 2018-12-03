@@ -1,9 +1,0 @@
-Date: 2014-11-30 14:38:10
-
-----
-
-User: texnixe
-
-----
-
-Text: The alignment problem is due to the fact that all your li elements but the first have a margin-left assigned but the 4th element shouldn't have a left margin either.

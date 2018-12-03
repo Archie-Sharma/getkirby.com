@@ -1,9 +1,0 @@
-User: idrisy
-
-----
-
-Date: 2014-08-17 00:33:40
-
-----
-
-Text: Thank you for your reply, I want to isolate the "content" folders to allow Kirby to process data spread across multiple folders on my NAS. I want to set up an intranet can provide access to all the files of the company in their own hierarchy.

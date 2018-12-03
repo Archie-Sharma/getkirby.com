@@ -1,9 +1,0 @@
-User: AveryLevitt
-
-----
-
-Date: 2014-06-06 14:12:05
-
-----
-
-Text: That usually means somethings wrong with rewrite, go to site->config and change rewrite to False.. If that fixes it and things load then your htaccess file is probably setup wrong (or your webhost have to turn rewrite on for you).

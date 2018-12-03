@@ -1,9 +1,0 @@
-Date: 2015-01-19 23:02:55
-
-----
-
-User: crisp_concepts
-
-----
-
-Text: You can make a page undeletable in the blueprint. I believe its "deletable: false" .. Or deleteable. I don't recall correct spelling. You can add it in the same spot above fields as files or pages true/false.

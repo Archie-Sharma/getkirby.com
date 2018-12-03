@@ -1,9 +1,0 @@
-Date: 2014-10-31 17:24:50
-
-----
-
-User: texnixe
-
-----
-
-Text: I have no idea how to do that via the panel, but how about doing this via a page template and then limit access to that page to the client? If the client is logged in to the panel anyway, he will have access to that page. With the current user rights structure, however, this won't work if you have page view restrictions set up for other purposes, though.

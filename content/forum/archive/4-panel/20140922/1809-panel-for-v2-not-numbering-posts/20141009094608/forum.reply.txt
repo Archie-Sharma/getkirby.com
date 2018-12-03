@@ -1,9 +1,0 @@
-Date: 2014-10-09 09:46:08
-
-----
-
-User: samnabi
-
-----
-
-Text: I have issued a pull request to have a more obvious link for editing page visibility. https://github.com/getkirby/panel/pull/233

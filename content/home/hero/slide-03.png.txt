@@ -1,1 +1,0 @@
-Caption: Kirby's web interface is responsive and adapts to any screen size. Administrating your website on the go has never been more fun.

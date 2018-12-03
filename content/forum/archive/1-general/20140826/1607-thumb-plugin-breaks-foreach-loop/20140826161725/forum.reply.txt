@@ -1,9 +1,0 @@
-User: texnixe
-
-----
-
-Date: 2014-08-26 16:17:25
-
-----
-
-Text: I think I read somewhere that this problem might be related to image size or server RAM, so it might break if your images are too big?

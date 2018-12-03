@@ -1,9 +1,0 @@
-Date: 2015-02-27 12:49:06
-
-----
-
-User: texnixe
-
-----
-
-Text: The thumb plugin has been integrated into Kirby 2, so you need to remove the thumb plugin from site/plugins.

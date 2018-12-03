@@ -1,9 +1,0 @@
-Date: 2015-02-05 21:32:05
-
-----
-
-User: mostueck
-
-----
-
-Text: This last solution, using double quotes, does not work for me on image captions.

@@ -1,9 +1,0 @@
-Date: 2014-11-16 16:42:45
-
-----
-
-User: texnixe
-
-----
-
-Text: The image tag is in kirby/extensions/tags.php

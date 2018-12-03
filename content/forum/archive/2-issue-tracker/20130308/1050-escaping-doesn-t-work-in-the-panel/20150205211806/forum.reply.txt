@@ -1,9 +1,0 @@
-Date: 2015-02-05 21:18:06
-
-----
-
-User: mostueck
-
-----
-
-Text: Is there a solution for this problem, yet? I'd love to use parenthesis within my image captions, but they always get parsed as the end of my kirbytext section. How can i escape these characters?

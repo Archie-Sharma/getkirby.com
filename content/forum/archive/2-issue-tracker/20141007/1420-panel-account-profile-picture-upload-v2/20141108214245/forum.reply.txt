@@ -1,9 +1,0 @@
-Date: 2014-11-08 21:42:45
-
-----
-
-User: cedwardsmedia
-
-----
-
-Text: Ironically, I'm encountering this same issue on OS X Yosemite with both Firefox and Safari, running Kirby 2 on NGINX. I've even changed my NGINX config to match what others have posted here saying it works. Granted, that has fixed a few route errors that I was encountering. However, I still can't get the avatar to upload. No error, no nothing. I get the progress bar but that's it. After it vanishes, I got nothing.

@@ -1,9 +1,0 @@
-Date: 2014-12-09 09:44:26
-
-----
-
-User: bastianallgeier
-
-----
-
-Text: $page->content() is indeed reserved. It represents the entire "content" of the page with all its fields. If you want to stick to your field name though you can go for $page->content()->get('content'). Looks a bit weird but should work.

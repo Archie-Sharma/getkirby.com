@@ -1,9 +1,0 @@
-Date: 2015-02-04 20:04:48
-
-----
-
-User: lydiastory
-
-----
-
-Text: Ok! I get it now. This was my first time setting up a virtual host with git. Thanks.

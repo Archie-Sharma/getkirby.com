@@ -1,9 +1,0 @@
-Date: 2014-10-29 17:18:04
-
-----
-
-User: bastianallgeier
-
-----
-
-Text: This has been fixed in 2.0.1. You should definitely upgrade to the latest version.

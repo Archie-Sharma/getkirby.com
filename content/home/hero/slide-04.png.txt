@@ -1,1 +1,0 @@
-Caption: Kirby's clean file structure makes your data accessible like never before. Super fast performance, backups and easy version controlling are amongst many more welcome side-effects of working with a file-based system.

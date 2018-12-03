@@ -1,9 +1,0 @@
-Date: 2015-01-05 17:47:32
-
-----
-
-User: crisp_concepts
-
-----
-
-Text: Can you make the search value and result value both lowercase before comparing them?  <?php echo str::lower($string); ?> I believe.

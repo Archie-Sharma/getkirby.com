@@ -1,9 +1,0 @@
-User: RobinBirr
-
-----
-
-Date: 2014-09-01 11:41:35
-
-----
-
-Text: Hey for those who want to use the plugin in Kirby V2, you have the calendar-plugin.php, calendar.php and merge the Event.php in a file. After that the plugin works fine.

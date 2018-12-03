@@ -1,9 +1,0 @@
-User: structor
-
-----
-
-Date: 2014-09-22 19:57:46
-
-----
-
-Text: add another (checkbox)field in the blueprint; in the template just put an IF statement: if (checkbox is checked) {display info-container} endif.

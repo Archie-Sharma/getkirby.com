@@ -1,9 +1,0 @@
-User: Crisp_Concepts
-
-----
-
-Date: 2014-06-23 22:15:41
-
-----
-
-Text: Thanks TravVT, this does seem to work. It's unfortunate I have to always use the $GLOBALS wrapper, but at least it saves me 42 lines of code (and growing) at the top of every single template by putting all variables into a single snippet. I try to follow Kirby protocol whenever possible rather than resort to raw php. It makes me feel good inside.

@@ -1,9 +1,0 @@
-Date: 2014-11-04 20:07:43
-
-----
-
-User: texnixe
-
-----
-
-Text: Yes, I think there should really be two kirbytags, i.e. image and figure, but as I said, for the time being, you can make your own tags or strip the figure-tag in the same way as the annoying p-tags around the image-tags in K1 (or other CMS for that matter, Wordpress does the same, i.e. put p-tags around images).

@@ -1,9 +1,0 @@
-Date: 2014-11-05 08:39:02
-
-----
-
-User: hellquist
-
-----
-
-Text: I have the same thing. I have filed this as a bug on Github over here: https://github.com/getkirby/panel/issues/280

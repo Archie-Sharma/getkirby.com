@@ -1,9 +1,0 @@
-Date: 2014-11-19 01:56:09
-
-----
-
-User: adilinden
-
-----
-
-Text: This is quite the task pulling my Wordpress posts out and making them digestible markdown. So far I settled on the exitwp script found at https://github.com/thomasf/exitwp. This is then followed by a couple of shell scripts to rewrite file names and rewrite the jekyll formatted header to Kirby style headers.

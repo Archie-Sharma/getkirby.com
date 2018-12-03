@@ -1,9 +1,0 @@
-User: texnixe
-
-----
-
-Date: 2014-06-25 11:25:41
-
-----
-
-Text: I ran into this problem before as well; If you add two linebreaks you will get paragraphs instead of break tags.

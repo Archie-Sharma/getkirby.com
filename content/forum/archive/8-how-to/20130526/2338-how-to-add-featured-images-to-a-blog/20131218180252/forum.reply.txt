@@ -1,9 +1,0 @@
-User: fitzage
-
-----
-
-Date: 2013-12-18 18:02:52
-
-----
-
-Text: OK, so that allows for multiple featured images on each post.

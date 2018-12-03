@@ -1,9 +1,0 @@
-User: fitzage
-
-----
-
-Date: 2014-06-23 18:45:59
-
-----
-
-Text: Not entirely sure if this will work in a newsletter setup, but what I would do is just apply CSS to the images to limit them to 800px.

@@ -1,9 +1,0 @@
-Date: 2014-11-02 06:16:38
-
-----
-
-User: jimmyrittenborg
-
-----
-
-Text: I think we need hooks for great stuff like this, (link: https://github.com/getkirby/panel/issues/134 text: bastian have commented) he thought it was an awesome idea but couldn't make it to version 2.0 but have it planned for 2.1

@@ -1,9 +1,0 @@
-Date: 2015-01-03 14:54:36
-
-----
-
-User: marc_martijn
-
-----
-
-Text: I suppose that since I know the name of the template, I could manually read the blueprint file (which has the same name as the template of course) and get all my field data (type, label, etc.) from there. That should work just fine for my purposes :-)

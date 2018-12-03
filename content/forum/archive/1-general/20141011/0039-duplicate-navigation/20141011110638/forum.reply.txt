@@ -1,9 +1,0 @@
-Date: 2014-10-11 11:06:38
-
-----
-
-User: texnixe
-
-----
-
-Text: You have included the menu twice, once withing the header-tags, once after the header, maybe resulting from using a header snippet with menu and then once again in your blog template, hard to tell without the code.

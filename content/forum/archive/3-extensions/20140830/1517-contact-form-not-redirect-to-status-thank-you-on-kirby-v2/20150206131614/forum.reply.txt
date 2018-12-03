@@ -1,9 +1,0 @@
-Date: 2015-02-06 13:16:14
-
-----
-
-User: malabarfront
-
-----
-
-Text: That's certainly how I'd do it. You shouldn't really be spoofing email from someone else's address, which is what putting their email in the 'from' field would be doing. As you say, stick their address in a 'replyTo' field, and put your own contact@yourdomain.com address in the 'from' field.

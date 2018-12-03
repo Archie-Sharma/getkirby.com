@@ -1,9 +1,0 @@
-Date: 2014-10-30 21:26:19
-
-----
-
-User: texnixe
-
-----
-
-Text: I think that even if it did work, it would be pretty error-prone, because you would have to make sure that you don't happen to get the same URL twice, e.g. you would have to make sure that you always have different URL-Keys for both languages in all cases. And that's probably the reason why it won't work?

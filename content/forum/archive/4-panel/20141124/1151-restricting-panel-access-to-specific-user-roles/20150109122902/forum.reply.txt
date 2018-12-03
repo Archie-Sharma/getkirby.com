@@ -1,9 +1,0 @@
-Date: 2015-01-09 12:29:02
-
-----
-
-User: lunelson
-
-----
-
-Text: Is this (still) a bug? It sounds like it directly undermines [what is explained in the docs regarding User Management](http://getkirby.com/docs/solutions/authentication#user-management). I'm about to start implementing something that depends on this... did the original poster solve it?

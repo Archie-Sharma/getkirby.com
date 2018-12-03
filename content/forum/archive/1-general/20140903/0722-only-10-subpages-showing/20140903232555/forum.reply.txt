@@ -1,9 +1,0 @@
-User: fitzage
-
-----
-
-Date: 2014-09-03 23:25:55
-
-----
-
-Text: Given this new information, my guess is that there's something in the 11th item that's causing an error. Whether that be a missing field or what, I'm not sure. But that's what I would bet on.

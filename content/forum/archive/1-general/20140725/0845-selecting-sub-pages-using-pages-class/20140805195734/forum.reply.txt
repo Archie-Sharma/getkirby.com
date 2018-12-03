@@ -1,9 +1,0 @@
-User: texnixe
-
-----
-
-Date: 2014-08-05 19:57:34
-
-----
-
-Text: I have just found out that on a multi-language site with URL-Keys, `$pages->find()` doesn't work, while `$pages->findByUID()` does.

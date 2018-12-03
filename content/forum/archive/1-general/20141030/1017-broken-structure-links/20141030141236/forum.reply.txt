@@ -1,9 +1,0 @@
-Date: 2014-10-30 14:12:36
-
-----
-
-User: bastianallgeier
-
-----
-
-Text: Do you use the default .htaccess file?

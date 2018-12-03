@@ -1,9 +1,0 @@
-Date: 2014-11-09 22:11:25
-
-----
-
-User: _iamwil_
-
-----
-
-Text: 2.0.3 throws me "unexpected error" note upon user save, previous versions don't.

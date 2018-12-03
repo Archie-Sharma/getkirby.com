@@ -1,9 +1,0 @@
-User: texnixe
-
-----
-
-Date: 2014-07-06 21:06:55
-
-----
-
-Text: I would think that all you need to do is `echo $page` if the snippet is called from within the template of portfolio_1?

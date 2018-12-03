@@ -1,9 +1,0 @@
-User: texnixe
-
-----
-
-Date: 2014-09-03 08:46:59
-
-----
-
-Text: Maybe a problem with visible/invisible folders? But without the exact folder structure and code it's hard to guess ...

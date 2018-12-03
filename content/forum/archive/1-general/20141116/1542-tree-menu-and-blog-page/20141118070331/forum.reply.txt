@@ -1,9 +1,0 @@
-Date: 2014-11-18 07:03:31
-
-----
-
-User: texnixe
-
-----
-
-Text: If you use a category field, you could list all posts that belong to a certain category, similar to using (link: (http://getkirby.com/docs/solutions/blog/tags text:tags), just using "category". The URL would look a bit different  (http://adis.ca/post/category:$category) though. As regards the routing, I just thought you wanted to get rid of the "post" bit in the url as well, otherwise it probably won't do any good. At least this way would be much easier than to somehow maintain a routing table that re-routes every single post?

@@ -1,9 +1,0 @@
-User: fitzage
-
-----
-
-Date: 2014-06-24 16:54:23
-
-----
-
-Text: What I first thought when I saw your post was that you could use the (link: http://www.php.net//manual/en/function.count.php text: count function) in PHP to determine how many images are in the folder, then use a conditional to pick a layout based on the result (1, 2, or 3 images).

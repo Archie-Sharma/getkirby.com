@@ -1,9 +1,0 @@
-Date: 2015-02-21 08:39:56
-
-----
-
-User: texnixe
-
-----
-
-Text: You can use offset() (http://getkirby.com/docs/cheatsheet/pages/offset)

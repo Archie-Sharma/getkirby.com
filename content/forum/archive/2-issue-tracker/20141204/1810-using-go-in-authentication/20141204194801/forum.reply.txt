@@ -1,9 +1,0 @@
-Date: 2014-12-04 19:48:01
-
-----
-
-User: timgauthier
-
-----
-
-Text: Solved!  The issue was having extra whitespace on the end of my translation language files. fixed!

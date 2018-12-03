@@ -1,5 +1,0 @@
-Title: Do I need a special hosting provider for Kirby?
-----
-Text:
-
-No! Kirby has been successfully tested on many hosting providers world wide. The low requirements make it the perfect tool for cheap shared hosting as well as dedicated servers or VPS. Feel free to test-drive Kirby on your server or hosting package if you want to make sure Kirby fits.

@@ -1,9 +1,0 @@
-User: invasoria
-
-----
-
-Date: 2014-07-27 22:43:08
-
-----
-
-Text: Yes, pastebin would be great. It seems kirbytext is already doing its wonderful thing with the .htaccess comments.

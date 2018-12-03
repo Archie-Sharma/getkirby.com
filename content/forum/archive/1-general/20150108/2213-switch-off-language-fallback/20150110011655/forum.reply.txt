@@ -1,9 +1,0 @@
-Date: 2015-01-10 01:16:55
-
-----
-
-User: texnixe
-
-----
-
-Text: You can use a filter() that uses $page->inventory as described here: http://getkirby.com/forum/general/20141222/finding-out-a-page-s-language/#20141226170945

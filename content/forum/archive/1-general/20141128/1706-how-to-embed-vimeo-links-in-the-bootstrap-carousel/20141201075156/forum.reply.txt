@@ -1,9 +1,0 @@
-Date: 2014-12-01 07:51:56
-
-----
-
-User: greetintheworld
-
-----
-
-Text: The issue with Vimeo in carousel slideshows is that if you use autoplay, the carousel keeps changing slides even if film is being played.

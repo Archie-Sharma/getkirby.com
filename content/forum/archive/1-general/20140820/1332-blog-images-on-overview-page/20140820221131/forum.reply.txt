@@ -1,9 +1,0 @@
-User: fitzage
-
-----
-
-Date: 2014-08-20 22:11:31
-
-----
-
-Text: Are you trying to display it on the overview page using kirbytext as opposed to using PHP in the overview template? Sharing some code would help.

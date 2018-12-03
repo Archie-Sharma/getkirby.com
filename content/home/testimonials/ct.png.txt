@@ -1,6 +1,0 @@
-Title: c't Magazin
-
-----
-
-Link: http://www.heise.de/ct/heft/2014-16-Content-Management-ohne-Datenbank-mit-Kirby-2252741.html
-

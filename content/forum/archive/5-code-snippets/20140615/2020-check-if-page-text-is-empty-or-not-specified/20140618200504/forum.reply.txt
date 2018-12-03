@@ -1,9 +1,0 @@
-User: fitzage
-
-----
-
-Date: 2014-06-18 20:05:04
-
-----
-
-Text: No, can't do that if you're using the control panel. The control panel creates an empty field so `if($page->text())` will return true even if it's empty.

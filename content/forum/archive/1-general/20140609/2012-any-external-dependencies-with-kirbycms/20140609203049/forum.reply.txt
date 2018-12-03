@@ -1,9 +1,0 @@
-User: fitzage
-
-----
-
-Date: 2014-06-09 20:30:49
-
-----
-
-Text: It needs a web server running PHP, obviously. Not aware of anything else it needs.

@@ -1,9 +1,0 @@
-Date: 2014-10-11 01:06:28
-
-----
-
-User: ols_
-
-----
-
-Text: Anyone has a though on how to display what was matched (kind of like excerpt() helper, but with some kind of highlight/focus on the match)?

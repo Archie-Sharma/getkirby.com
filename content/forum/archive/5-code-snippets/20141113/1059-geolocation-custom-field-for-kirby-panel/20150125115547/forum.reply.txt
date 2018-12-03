@@ -1,9 +1,0 @@
-Date: 2015-01-25 11:55:47
-
-----
-
-User: janlandmeter
-
-----
-
-Text: I tried echo $page->location() and get only the number 51.92641180639387,4.354105308471617 return.

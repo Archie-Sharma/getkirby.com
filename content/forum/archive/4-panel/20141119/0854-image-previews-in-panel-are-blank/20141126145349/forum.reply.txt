@@ -1,9 +1,0 @@
-Date: 2014-11-26 14:53:49
-
-----
-
-User: m_huebner
-
-----
-
-Text: I have the exact same problem. It occured after the first update of Kirby 2. Tried a lot of things: uploading smaller images (filesize & dimensions), changing filenames... nothing.

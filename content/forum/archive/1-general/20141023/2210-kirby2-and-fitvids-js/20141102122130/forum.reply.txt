@@ -1,9 +1,0 @@
-Date: 2014-11-02 12:21:30
-
-----
-
-User: plfstr
-
-----
-
-Text: @theseason I just did a quick test and video embeds are now inside a `<figure>` tag with the class of video (.video). If you are using another class to find videos to target with FitVid.js that might be the cause, or perhaps the `<figure class=“video”>` tags are not expanding to full width?

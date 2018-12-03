@@ -1,9 +1,0 @@
-Date: 2014-11-09 13:34:09
-
-----
-
-User: maartendegroote
-
-----
-
-Text: Yes I would most certainly agree. However imho it doesn't make sense to have a page published by dragging and dropping. Even more so when you are using date-based pages like for a blog.  Dragging and dropping is perfect fit for ordering pages or images and not for publishing pages in this situation.  I think an actual draft/publish-button would be the best solution in this case. And thats's exactly what I'm kind of missing here..

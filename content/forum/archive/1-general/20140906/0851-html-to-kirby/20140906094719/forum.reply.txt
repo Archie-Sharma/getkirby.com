@@ -1,9 +1,0 @@
-User: Sinan_Talebi
-
-----
-
-Date: 2014-09-06 09:47:19
-
-----
-
-Text: I was not talking about that. For example I have a html blog template and i want to display latest articles on front page. Is there list of kirby functions which i can look and use it in my html template?

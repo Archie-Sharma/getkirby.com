@@ -1,9 +1,0 @@
-Date: 2014-12-23 17:25:23
-
-----
-
-User: texnixe
-
-----
-
-Text: (link: http://getkirby.com/docs/solutions/search text: This page) shows how the new search function works.

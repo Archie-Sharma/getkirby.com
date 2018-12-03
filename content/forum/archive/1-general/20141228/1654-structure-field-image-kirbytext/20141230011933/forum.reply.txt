@@ -1,9 +1,0 @@
-Date: 2014-12-30 01:19:33
-
-----
-
-User: texnixe
-
-----
-
-Text: I used to use structured fields in Kirby 1 with kirbytext image tags and it worked perfectly, but it doesn't seem to work the way it used to anymore in K2:(

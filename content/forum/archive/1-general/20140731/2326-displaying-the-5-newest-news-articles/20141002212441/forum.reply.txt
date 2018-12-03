@@ -1,9 +1,0 @@
-User: anomis66
-
-----
-
-Date: 2014-10-02 21:24:41
-
-----
-
-Text: I used a number of topic threads from this forum, including this one, to create a template that does exactly what you want - Latest 5 Items.  Here's **(link: http://getkirby.com/forum/code-snippets/topic:1245 link: the link)**.

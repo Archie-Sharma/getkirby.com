@@ -1,9 +1,0 @@
-Date: 2014-11-05 08:42:24
-
-----
-
-User: hellquist
-
-----
-
-Text: I prefer Markdown/Kirbytext but have noticed clients are not that eager to use it, so yeah, this would be a great feature, to be able to add simple stuff like H2, BlockQuote etc.

@@ -1,9 +1,0 @@
-User: conefreykoedam
-
-----
-
-Date: 2013-07-29 12:48:36
-
-----
-
-Text: @chrstphbach: could you share the code how you integrated the captcha in the contactform? Thanks!

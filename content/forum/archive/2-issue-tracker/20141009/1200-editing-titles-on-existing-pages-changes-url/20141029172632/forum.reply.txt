@@ -1,9 +1,0 @@
-Date: 2014-10-29 17:26:32
-
-----
-
-User: bastianallgeier
-
-----
-
-Text: Sorry for the delay! This has been fixed in 2.0.1. I thought it'd be a good idea to keep the uids up to date when a title changes, but in fact it causes too much confusion. I'm working on a better way to display that the title has changed and maybe the uid should change too.

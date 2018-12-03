@@ -1,9 +1,0 @@
-Date: 2014-10-15 14:06:14
-
-----
-
-User: ajdemetriades
-
-----
-
-Text: I've also asked on stackoverflow here http://stackoverflow.com/questions/26381712/disqus-kirby-cms-local-development as of yet no answers.

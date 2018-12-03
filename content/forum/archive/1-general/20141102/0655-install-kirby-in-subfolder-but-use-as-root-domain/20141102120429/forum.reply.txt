@@ -1,9 +1,0 @@
-Date: 2014-11-02 12:04:29
-
-----
-
-User: qkevinto
-
-----
-
-Text: @texnixe, thanks for the reply – however with Bluehost (as far as I can tell, and the fact that they suggest using `.htaccess` for this) the `public_html` directory is mapped to the primary/root domain by default and cannot be pointed to another directory unless it is a subdomain.

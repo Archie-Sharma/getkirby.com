@@ -1,9 +1,0 @@
-User: fitzage
-
-----
-
-Date: 2013-12-17 20:54:57
-
-----
-
-Text: template() doesn't work that way. It needs to be `if ($page->template() == 'blogarticle'): ?>`

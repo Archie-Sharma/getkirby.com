@@ -1,9 +1,0 @@
-Date: 2015-01-15 21:57:35
-
-----
-
-User: yaccin
-
-----
-
-Text: would also love the nginx config file :D

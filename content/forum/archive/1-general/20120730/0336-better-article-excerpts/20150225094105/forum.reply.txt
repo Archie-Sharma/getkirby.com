@@ -1,9 +1,0 @@
-Date: 2015-02-25 09:41:05
-
-----
-
-User: mattseccafien
-
-----
-
-Text: $padding is the text that appears if the text you are truncating is longer than the number of words ($numwords) you pass to the function.  Adding an ellipsis for this value would be a common use case. It would show up only when needed. Pretty nice, thanks for posting it!

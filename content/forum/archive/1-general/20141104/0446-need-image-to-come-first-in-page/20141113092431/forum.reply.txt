@@ -1,9 +1,0 @@
-Date: 2014-11-13 09:24:31
-
-----
-
-User: seleckis
-
-----
-
-Text: Text: is a variable, which you use in a template. Ok, what is your markdown code?

@@ -1,9 +1,0 @@
-Date: 2014-11-25 14:39:43
-
-----
-
-User: texnixe
-
-----
-
-Text: $num returns an object (check with $num->getType()) while `limit()`requires an integer, you have to convert the object first, if this is possible ... I'm not sure using the "number" field type would change that but then again, you can't use select and number at the same time, anyway ..

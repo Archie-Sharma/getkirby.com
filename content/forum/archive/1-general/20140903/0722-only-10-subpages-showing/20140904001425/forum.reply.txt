@@ -1,9 +1,0 @@
-User: danpia
-
-----
-
-Date: 2014-09-04 00:14:25
-
-----
-
-Text: I thought that too but I deleted and made a new 11th, even renamed the folder with another number to test, seems like it wont display anything below the 11th subfolder I create, no matter where it's positioned or named.

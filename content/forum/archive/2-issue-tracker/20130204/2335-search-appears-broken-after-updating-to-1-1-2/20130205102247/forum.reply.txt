@@ -1,9 +1,0 @@
-User: bastianallgeier
-
-----
-
-Date: 2013-02-05 10:22:47
-
-----
-
-Text: What is exactly happening? Do you get a PHP error or just no results?

@@ -1,9 +1,0 @@
-Date: 2014-10-15 06:37:40
-
-----
-
-User: cinkon
-
-----
-
-Text: Ah, I'm sorry, I've got to include it directly in the Template above the header-snippet, not in the header snippet.

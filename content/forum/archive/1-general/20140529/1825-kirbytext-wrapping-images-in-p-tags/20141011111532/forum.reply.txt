@@ -1,9 +1,0 @@
-Date: 2014-10-11 11:15:32
-
-----
-
-User: wallubee
-
-----
-
-Text: @bastianallgeier that's the problem with kirbytext. I hope we have another field which exact match the way kirbytext do, just minus p wrapping.

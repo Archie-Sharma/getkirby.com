@@ -1,9 +1,0 @@
-Date: 2014-10-15 14:27:36
-
-----
-
-User: texnixe
-
-----
-
-Text: I'd try to set rewrite to false in config.php `c::set('rewrite', 'false')`and comment out the rewrite lines in .htaccess. If the problem persists, have a look at the server error logs. What about PHP-Version? I think there was a change as to the requirements between K1 and K2 ...

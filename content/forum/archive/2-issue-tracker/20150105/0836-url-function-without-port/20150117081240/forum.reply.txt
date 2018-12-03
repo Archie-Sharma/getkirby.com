@@ -1,9 +1,0 @@
-Date: 2015-01-17 08:12:40
-
-----
-
-User: getrank
-
-----
-
-Text: Issue fixed on 2.0.6 version, thanks!

@@ -1,9 +1,0 @@
-Date: 2014-11-10 03:33:23
-
-----
-
-User: greetintheworld
-
-----
-
-Text: Would anyone be able to give me a code example of using thumb() withing a tag? It doesn't really need to be the image one.
