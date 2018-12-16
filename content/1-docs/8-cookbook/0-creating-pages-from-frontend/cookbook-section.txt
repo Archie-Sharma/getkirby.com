@@ -330,7 +330,7 @@ if($alert): ?>
 
 <?php if(!isset($success)) {
   // if the $success variable is not set, show the form (i.e. when the page is first loaded or the form submission was not successful)
-  snippet('form', compact('data'));
+  snippet('registration-form', compact('data'));
 }
 ?>
 <?php snippet('footer') ?>
