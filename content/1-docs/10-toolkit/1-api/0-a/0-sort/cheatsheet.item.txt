@@ -54,7 +54,7 @@ $array[3] = array(
   'username' => 'john',
 );
 
-$sorted = a::sort($array, 'username ASC');
+$sorted = a::sort($array, 'username', 'ASC');
 
 // Array
 // (
