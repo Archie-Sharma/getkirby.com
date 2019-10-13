@@ -13,12 +13,12 @@ Text:
 
 You can download the latest version of Kirby by using the official download link:
 
-(link: http://download.getkirby.com text: Download Kirby class: btn)
+(link: https://github.com/getkirby-v2/starterkit/archive/master.zip text: Download Kirby class: btn)
 
 If you prefer using the terminal please run:
 
 ```
-git clone --recursive https://github.com/getkirby/starterkit.git
+git clone --recursive https://github.com/getkirby-v2/starterkit.git
 ```
 
 ## Requirements
